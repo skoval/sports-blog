@@ -1,5 +1,5 @@
 +++
-title = "Contact Information"
+title = "Contact"
 date = "2015-09-01"
 menu = "main"
 +++
