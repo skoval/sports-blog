@@ -1,0 +1,30 @@
+baseurl = "/"
+title = "Stats On the T"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "on-the-t-com" # Enable comments by entering your Disqus shortname
+googleAnalytics = "UA-100138539-1" # Enable Google Analytics by entering your tracking id
+
+[Author]
+    name = "Stephanie Kovalchik"
+    bio = "Tennis Data Scientist at the Game Insight Group at Tennis Australia and researcher at the Institute of Sport Exercise and Active Living at Victoria University."
+    avatar = "img/IMG_0842.JPG"
+
+
+[Params]
+    subtitle = "Dedicated to data, statistics, and tennis" # Subtitle of your site
+    description = "A blog that puts the numbers to tennis" # Description of your site
+    opengraph = true
+    readmore = false # Show "Read more" button in list if true
+    leftsidebar = false # Move sidebar to the left side if true
+    authorbox = true
+    post_navigation = true
+
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent arcticles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+        tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)

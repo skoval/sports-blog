@@ -1,0 +1,4 @@
+baseURL: http://on-the-t.com
+disablePathToLower: true
+languageCode: en-us
+title: My New Hugo Site
