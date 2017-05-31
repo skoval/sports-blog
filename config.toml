@@ -20,6 +20,7 @@ googleAnalytics = "UA-100138539-1" # Enable Google Analytics by entering your tr
     leftsidebar = false # Move sidebar to the left side if true
     authorbox = true
     post_navigation = true
+    Imglogo = "img/logo.png"
 
 
 [Params.widgets]
