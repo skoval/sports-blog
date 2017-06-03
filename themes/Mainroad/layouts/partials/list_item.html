@@ -1,6 +1,6 @@
 <article class="list__item post clearfix">
 	{{- if .Params.thumbnail }}
-	<figure class="list__thumbnail">
+	<figure class="list__thumbnail" style="float:left;">
 		<a href="{{ .Permalink }}">
 			<img src="{{ .Params.thumbnail | absURL }}" alt="{{ .Title }}" />
 		</a>

@@ -5,7 +5,7 @@ title: Rethinking Women's French Open Seedings
 categories: ['WTA', 'seeds', 'Elo',]
 tags: ['WTA', 'seeds', 'Elo',]
 url: /2017/06/03/Womens-Seeds-French-Open/
-thumbnail = "img/simona_thumbnail.png"
+thumbnail: "img/simona_thumbnail.png"
 ---
 
 It only took a few days of main draw play for the 2017 French Open to give fodder to debates on the unpredictability of this year's women's tour. After two rounds, just 9 of the 32 seeds survived to the round of 32, 23 fewer than expected. Those numbers caused [tennis.com](http://www.tennis.com/pro-game/2017/06/tennis-channel-roland-garros-2017-wta-player-draft-update-french-open/66477/) to conclude that the women's draw was "decimated". 
