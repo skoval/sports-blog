@@ -18,10 +18,8 @@
 	<div class="container container-outer">
 		<header class="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
 			<div class="container container-inner clearfix">
-                <div style="text-align:right;"><img src="{{ .Site.BaseURL }}{{ .Site.Params.Imglogo }}" alt="{{ .Site.Title }}" title="{{ .Site.Title }}"/>
-                </div>
 				<div class="logo" role="banner" itemscope="itemscope" itemtype="http://schema.org/Brand">
-					<a class="logo__link" href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}" rel="home">
+                   	<a class="logo__link" href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}" rel="home">
 						<h1 class="logo__title">{{ .Site.Title }}</h1>
 						{{ with .Site.Params.subtitle }}<h2 class="logo__tagline">{{ . }}</h2>
                         {{ end }}
