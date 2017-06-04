@@ -19,6 +19,9 @@
 		<header class="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
 			<div class="container container-inner clearfix">
 				<div class="logo" role="banner" itemscope="itemscope" itemtype="http://schema.org/Brand">
+                    <div style="float:right;">
+                        <img src="{{ .Site.BaseURL }}img/logo.png" width="70px">
+                    </div>
                    	<a class="logo__link" href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}" rel="home">
 						<h1 class="logo__title">{{ .Site.Title }}</h1>
 						{{ with .Site.Params.subtitle }}<h2 class="logo__tagline">{{ . }}</h2>
