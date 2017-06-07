@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2016-12-17T00:00:00Z
-title: AO Leaderboard&mdash; Serve Plus 1 Stroke
+title: AO Leaderboard - Serve Plus 1 Stroke
 url: /2016/12/17/AOLeaderboard-Forehand-Backhand-Serve1/
 ---
 

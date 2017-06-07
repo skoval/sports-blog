@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2016-11-05T00:00:00Z
-title: AO Leaderboard&mdash; Net Clearance
+title: AO Leaderboard - Net Clearance
 url: /2016/11/05/AOLeaderboard-Line-Hitting/
 ---
 

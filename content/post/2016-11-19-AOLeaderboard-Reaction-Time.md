@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2016-11-19T00:00:00Z
-title: AO Leaderboard&mdash; Reaction Time
+title: AO Leaderboard - Reaction Time
 url: /2016/11/19/AOLeaderboard-Reaction-Time/
 ---
 

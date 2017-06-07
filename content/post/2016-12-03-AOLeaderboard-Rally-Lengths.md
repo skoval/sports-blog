@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2016-12-03T00:00:00Z
-title: AO Leaderboard&mdash; Rally Lengths
+title: AO Leaderboard - Rally Lengths
 url: /2016/12/03/AOLeaderboard-Rally-Lengths/
 ---
 

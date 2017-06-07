@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2016-10-22T00:00:00Z
-title: AO Leaderboard&mdash; Backhand Speeds
+title: AO Leaderboard - Backhand Speeds
 url: /2016/10/22/AOLeaderboard-Backhand-Speed/
 ---
 

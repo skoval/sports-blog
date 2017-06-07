@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2016-02-24T00:00:00Z
-title: Klaassen & Magnus's 22 Myths of Tennis&mdash; Myth 2
+title: Klaassen & Magnus's 22 Myths of Tennis - Myth 2
 url: /2016/02/24/Klaassen-Magnus-Hypothesis2/
 ---
 
@@ -40,11 +40,11 @@ Using 2,000 randomly selected ATP matches and an equal number of randomly chosen
 
 To try to understand the different result, I plotted the average points won on serve by the game order. Figure 1 shows the pattern for the ATP, Figure 2 for the WTA. This reveals a few interesting trends. Win percentages get much more variable in later stages of the match where the sample size diminishes. More interestingly, we see a few peaks at games where new balls are introduced, which happens after the first 7 games then every 9 games (game 1, game 8, game 17, etc.). Overall, new balls provide a 1% point increase on average for points won on serve. 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/782.embed"></iframe>
+<iframe width="600" height="700" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/782.embed"></iframe>
 
 The effect is somewhat more pronounced for the women's tour. Overall the effect of new balls is approximately a 1.5% percentage point increase for winning a point on serve.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/784.embed"></iframe>
+<iframe width="600" height="700" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/784.embed"></iframe>
 
 
 Although not seen here, it is possible that the Game 1 effect observed by Klaassen and Magnus in the Wimbledon data from the nineties could be attributed to the effect of playing with a fresh set of balls on the fast-paced surface of that era.

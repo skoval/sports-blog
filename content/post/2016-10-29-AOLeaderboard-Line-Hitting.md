@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2016-10-29T00:00:00Z
-title: AO Leaderboard&mdash; Line Hitting
+title: AO Leaderboard - Line Hitting
 url: /2016/10/29/AOLeaderboard-Line-Hitting/
 ---
 

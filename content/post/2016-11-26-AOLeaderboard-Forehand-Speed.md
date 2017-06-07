@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2016-11-26T00:00:00Z
-title: AO Leaderboard&mdash; Forehand Speeds
+title: AO Leaderboard - Forehand Speeds
 url: /2016/11/26/AOLeaderboard-Forehand-Speed/
 ---
 

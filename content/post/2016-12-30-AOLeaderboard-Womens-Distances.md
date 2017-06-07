@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2016-12-30T00:00:00Z
-title: AO Leaderboard&mdash; Women's Distances
+title: AO Leaderboard - Women's Distances
 url: /2016/12/30/AOLeaderboard-Womens-Distances/
 ---
 

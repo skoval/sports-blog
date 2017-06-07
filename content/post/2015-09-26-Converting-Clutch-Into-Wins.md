@@ -1,7 +1,7 @@
 ---
 comments: false
 date: 2015-09-26T00:00:00Z
-title: Converting Clutch into Wins &mdash; A Pythagorean Model for Tennis
+title: Converting Clutch into Wins - A Pythagorean Model for Tennis
 url: /2015/09/26/Converting-Clutch-Into-Wins/
 ---
 

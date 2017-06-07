@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2016-07-02T00:00:00Z
-title: Klaassen & Magnus's 22 Myths of Tennis&mdash; Myth 17
+title: Klaassen & Magnus's 22 Myths of Tennis - Myth 17
 url: /2016/07/02/Klaassen-Magnus-Hypothesis-17/
 ---
 
@@ -46,34 +46,20 @@ In the first plot below, I compare how point importance affects a player's abili
 
 The positive trend in the point cloud indicates that the effect of point importance does tend to decrease as a player's quality increases. Still, the relationship is a pretty noisy one.
 
-<div>
-    <a href="https://plot.ly/~on-the-t/829/" target="_blank" title=", , " style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/829.png" alt=", , " style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:829"  src="https://plot.ly/embed.js" async></script>
-</div>
+<iframe width="700" height="450" frameborder="0" scrolling="no" src="//plot.ly/~on-the-t/829.embed"></iframe>
 
 To turn the same question to momentum, I use the _set point spread_. This is the difference in how many points more a player has won in a set than his or her opponent. Figure 2 shows the player-specific affects of momentum for the ATP. In general, being ahead in the score boosts player performance. However, this does tend to diminish with player quality as the downward moving cloud of points indicates. This suggests that the best players are the least prone to "winning mood" or "hot hand" effects. Still, no player in this group was free from some positive effect.
 
-<div>
-    <a href="https://plot.ly/~on-the-t/831/" target="_blank" title=", , " style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/831.png" alt=", , " style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:831"  src="https://plot.ly/embed.js" async></script>
-</div>
-
+<iframe width="700" height="450" frameborder="0" scrolling="no" src="//plot.ly/~on-the-t/831.embed"></iframe>
 
 When the same analyses were applied to the women's game, we see less of a relationship between point importance and player quality (Figure 3). Most players are similarly negatively affected by pressure. There are some interesting exceptions, Garbine Muguruza the most notable one whose performance on serve skyrocketed by 10 percentage points in 2014-2015 on the biggest points. But the exceptions that are found do not have any consistent link with player quality.
 
-<div>
-    <a href="https://plot.ly/~on-the-t/833/" target="_blank" title=", , " style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/833.png" alt=", , " style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:833"  src="https://plot.ly/embed.js" async></script>
-</div>
+<iframe width="700" height="450" frameborder="0" scrolling="no" src="//plot.ly/~on-the-t/833.embed"></iframe>
 
 
 When we look at the link between momentum and player quality for the WTA, the story is more similar to what we find for the ATP. All players do better when ahead in the point spread, but the affect of the winning mood tends to diminish with player quality. Still, noisiness rules. 
 
-<div>
-    <a href="https://plot.ly/~on-the-t/835/" target="_blank" title=", , " style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/835.png" alt=", , " style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:835"  src="https://plot.ly/embed.js" async></script>
-</div>
-
+<iframe width="700" height="450" frameborder="0" scrolling="no" src="//plot.ly/~on-the-t/835.embed"></iframe>
 
 ## Summary
 

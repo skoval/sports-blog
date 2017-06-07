@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2016-06-25T00:00:00Z
-title: Klaassen & Magnus's 22 Myths of Tennis&mdash; Myth 16
+title: Klaassen & Magnus's 22 Myths of Tennis - Myth 16
 url: /2016/06/25/Klaassen-Magnus-Hypothesis-16/
 ---
 

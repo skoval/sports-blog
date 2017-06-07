@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2016-12-24T00:00:00Z
-title: AO Leaderboard&mdash; Men's Distances
+title: AO Leaderboard - Men's Distances
 url: /2016/12/24/AOLeaderboard-Mens-Distances/
 ---
 

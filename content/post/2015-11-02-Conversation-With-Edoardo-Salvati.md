@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2015-11-02T00:00:00Z
-title: The Future of Tennis Data&mdash;A Conversation with Edoardo Salvati
+title: The Future of Tennis Data - A Conversation with Edoardo Salvati
 url: /2015/11/02/Conversation-With-Edoardo-Salvati/
 ---
 

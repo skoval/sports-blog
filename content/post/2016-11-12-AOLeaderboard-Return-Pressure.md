@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2016-11-12T00:00:00Z
-title: AO Leaderboard&mdash; Return Pressure
+title: AO Leaderboard - Return Pressure
 url: /2016/11/12/AOLeaderboard-Return-Pressure/
 ---
 

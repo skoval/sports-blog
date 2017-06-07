@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2017-01-07T00:00:00Z
-title: AO Leaderboard&mdash; Work
+title: AO Leaderboard - Work
 url: /2017/01/07/AOLeaderboard-Work/
 ---
 

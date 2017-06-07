@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2016-12-10T00:00:00Z
-title: AO Leaderboard&mdash; Winning Rallies
+title: AO Leaderboard - Winning Rallies
 url: /2016/12/10/AOLeaderboard-Rally-Winners/
 ---
 
