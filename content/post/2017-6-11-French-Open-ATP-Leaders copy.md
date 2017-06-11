@@ -178,6 +178,9 @@ Nadal also has the edge on the return with an average of 53.9%. Wawrinka is more
 
 If we turn to the clutch stats, where we can get more of an idea of how each player has handled pressure in the event, the stats don't look much better for Wawrinka. Wawrinka has trailed Nadal by several percentage points on average in clutch serve and return situations. But the picture looks much more positive for Wawrinka when we consider that Nadal hasn't really been tested. He has breezed through the draw with such ease that he doesn't even feature in the top 10 clutch performances this year.
 
+
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="//plot.ly/~on-the-t/1231.embed"></iframe>
+
 So how Nadal will handle pressure if Wawrinka finds a way to put him on edge is a bit of an unknown. Wawrinka, on the other hand, has shown that he lifts his game when it matters most. This is not only evident in his Grand Slam finals record but apparent in his clutch differential on serve and return this year, where he has outperformed under pressure by +0.6% and +3.9%. Which means we could be in store for a more even contest than the bookmakers would have us believe.
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
