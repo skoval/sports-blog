@@ -1,6 +1,7 @@
 library(dplyr)
 library(ggplot2)
 library(ggthemes)
+library(lubridate)
 
 load("tourney_strength.RData")
 
@@ -36,15 +37,25 @@ tourney_strength <- tourney_strength %>%
 	)
 	
 tourney_strength$level <- factor(tourney_strength$level, level = c("GS", "1000", "500", "250"), order = T)	
+
+month_labels <- tourney_strength %>%
+	dplyr::mutate(
+		month = month(start_date)
+	) %>%
+	group_by(month) %>%
+	dplyr::summarise(
+		start_date = ymd(paste(year(start_date[1]), month(start_date[1]), 1, sep = "-")),
+		day = yday(start_date)
+	)
 	
 gg1 <- tourney_strength %>%
-	ggplot(aes(y = strength, x = start_date, color = level, group = level))	 +
+	ggplot(aes(y = strength, x = yday(start_date), color = level, group = level))	 +
 	geom_point(size = 3)	 +
-	geom_segment(aes(x = start_date, xend= start_date, y=1800, yend = strength)) + 
+	geom_segment(aes(x = yday(start_date), xend= yday(start_date), y=1800, yend = strength)) + 
 	facet_grid(level ~ .) +
 	scale_colour_tableau() + 
 	scale_y_continuous("Tournament Strength", lim = c(1800, 2300)) + 
-	scale_x_date("Calendar Month", date_breaks = "1 month", date_labels = "%B") + 
+	scale_x_continuous("Calendar Day") +	
 	theme_bw() + 
 	theme(legend.position = "none")
 
