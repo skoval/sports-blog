@@ -7,6 +7,8 @@ url: /2017/01/07/AOLeaderboard-Work/
 
 The first week of the 2017 tennis season saw the debut of many of the world's best players. One of the players that tennis fans will be expecting the most from is the recently [knighted Sir Andy Murray](http://www.news.com.au/sport/tennis/british-tennis-star-andy-murray-knighted-after-amazing-season/news-story/6191b34118355421ef96820aa18c2bdc). Not just because of the knighthood but because of last year's miraculous season that propelled that honour and saw Murray do the impossible: take the World No. 1 ranking from Novak Djokovic.
 
+<!--more-->
+
 
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:80%;max-width:594px;float:right;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/630842464" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:65.993266% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/630842464?et=FllZF2f2RQ5fdgIZ8-rXGg&viewMoreLink=on&sig=KjZdFm9f1jr240wFIgMS4qUJeUvsqjAdMvtoEFXOBpg=&caption=true" width="594" height="392" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 

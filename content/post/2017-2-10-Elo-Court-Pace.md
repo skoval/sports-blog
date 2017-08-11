@@ -7,6 +7,8 @@ url: /2017/02/10/Elo-Court-Pace/
 
 With only two of the top 8 seeds reaching the quarterfinals at the first Grand Slam of the year, the 2017 Australian Open was a trainwreck for most prediction models. Even the Elo forecasting system, one of the most accurate open prediction approaches in tennis, couldn't have anticipated the unusual conditions of this year's Major down under.
 
+<!--more-->
+
 _Or could it have?_
 
 We know that one of the contributing factors for the higher number of upsets at the Australian Open was a higher than normal serve percentage. When we look at the average service points won by tournament, we see that there has been a general increasing trend across surfaces. On hard courts, for example, serve percentages have increased 3 percentage points over 20 years. Whether owing to a surface, ball or equipment effect, the 2017 Australian Open was still an outlier, [departing even further](http://www.economist.com/blogs/gametheory/2017/01/pace-play-tennis) from these trends.

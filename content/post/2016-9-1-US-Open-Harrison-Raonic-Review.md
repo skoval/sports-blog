@@ -7,6 +7,8 @@ url: /2016/09/01/US-Open-Harrison-Raonic-Review/
 
 On the first day of Round 2 of the 2016 U.S. Open, an American served up what could turn out to be one of the biggest upsets of the tournament. Ryan Harrison, ranked 220 in the world and known mostly for a [streak of unlucky draws](http://fivethirtyeight.com/datalab/at-wimbledon-ryan-harrison-suffers-again-from-his-bad-luck-of-the-draw/) at Grand Slams, defeated huge-hitting World No. 6 Milos Raonic 6-7 (4), 7-5, 7-5, 6-1. 
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;float:left;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/598119712" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:68.013468% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/598119712?et=ujAZJ_MmSXt6VS5OP34cbw&viewMoreLink=off&sig=Srz2t-Ank75gWPh2u-gNfga6JfBhwLdXKiaFlbX3-Wg=&caption=true" width="594" height="404" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 Harrison might have been the crowd favorite going into the match, but he was also the massive underdog. FiveThiryEight's U.S. Open model gave Harrison just a [9% chance](http://projects.fivethirtyeight.com/2016-us-open-tennis-predictions/mens/) of pulling out a win. 

@@ -7,6 +7,8 @@ url: /2017/01/23/AO2017-Unpredictable/
 
 When defending champion Novak Djokovic went out in the second round to qualifier Denis Istomin, we all had to be thinking that it was the most surprising match result we were likely to see at the 2017 Australian Open. Then Day 7 happened. 
 
+<!--more-->
+
 With the exits of the top seeds on the men's and women's draws in a single day, thanks to the phenomenal play of Mischa Zverev and Coco Vandeweghe, many of us are now wondering if the 2017 Australian Open is the most random in history?
 
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:75%;max-width:594px;float:left; padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/632360270" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/632360270?et=dwH1hz3JQKdGfVvQ_5mpBw&viewMoreLink=on&sig=mIJCvsgq1sq24iHHICs4Zldb4WP85JZpW1fno3ulH3o=&caption=true" width="594" height="396" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>

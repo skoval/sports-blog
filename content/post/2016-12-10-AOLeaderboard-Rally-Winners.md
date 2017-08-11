@@ -7,6 +7,7 @@ url: /2016/12/10/AOLeaderboard-Rally-Winners/
 
 When we think of the best ralliers in the game, we are thinking of the players who not only have a penchant for extended points but also win those points. While tournaments will sometimes tell us about typical rally lengths, we don't usually know how a player's chances of winning a point vary with rally length. In this post, I look into this question using Australian Open statistics provided by the Game Insight Group of Tennis Australia.
 
+<!--more-->
 
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;float:right;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/619211746" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:73.905724% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/619211746?et=qADWfhB1R6ZNTEhMEX7xGA&viewMoreLink=off&sig=xaAXor4sxTOV_BtS3QIG2wV9AXUDg1ZG6SRCBFlYTjo=&caption=true" width="594" height="439" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 

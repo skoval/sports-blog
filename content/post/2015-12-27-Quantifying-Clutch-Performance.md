@@ -7,6 +7,9 @@ url: /2015/12/27/Quantifying-Clutch-Performance/
 
 Just as some people are unusually good at finding the perfect gift to put under the Christmas tree, some tennis players are unusually good at pulling out a win when it matters most. This is the quintessential characteristic of the "clutch player". 
 
+<!--more-->
+
+
 <div style="float:right;padding:2%;width:400px;height:250px;">
 <a href="https://twitter.com/Tennis/status/680863246937620480/photo/1?ref_src=twsrc%5Etfw"><img src="/assets/shot_heard_round_world.png" width="90%" height="75%"/></a><p style="font-size:11px;">Novak Djokovic's shocking service return winner facing a match point at the US Open Final in 2011</p></div>
 

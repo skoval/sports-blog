@@ -7,6 +7,8 @@ url: /2017/01/26/AO2017-Rally-Lengths/
 
 With the prospect of a Rafael Nadal and Roger Federer final at this year's Australian Open, many are probably wondering if we are in store for the relatively speedy match when they last played here in 2014 or an epic more like their four-hour plus semifinal at the 2012 AO. There hasn't been much that is predictable about this year's Australian Open. One had to be clairvoyant to have picked a Nadal-Federer final (if that turns out to be what we get) let alone how long such a meeting could last.
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:80%;max-width:594px;float:left;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/137767163" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:65.319865% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/137767163?et=fg9VtWDQRpdLnaoGZVN_jg&viewMoreLink=on&sig=ZTV636iyZvzvnIPugcwg8h8iD5a0FjjjNwVLCYy5id4=&caption=true" width="594" height="388" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 But if there is any consistency with what we have seen so far at the 2017 AO, we can expect points in the second week to be shorter than any time in recent history.  

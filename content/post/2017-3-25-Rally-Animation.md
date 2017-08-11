@@ -7,6 +7,8 @@ url: /2017/03/25/Rally-Animation/
 
 With modern tracking data, it is possible to get an almost continuous representation of the locations of both the ball and players during a tennis match. The richness of these data is a huge boon for tennis research but it comes with some challenges too. A lot of my time these days is spent thinking about how best to visualise this information. 
 
+<!--more-->
+
 Because time and flow are inherent parts of tennis data, animation is a natural choice for visualization. Animation effectively allows us to create movies of tennis tracking data. The potential benefits of applying animation aren't new. Hans Rosling, who sadly passed away last month, spent much of his career promoting the use of animation to bring statistics to life, work he talks about in several [popular TED talks](https://www.ted.com/speakers/hans_rosling). 
 
 Although in the past one might have needed some heavy duty software for stringing interesting plots together in time, things are much easier today. For example, just a couple tools in R can do the trick (more on this in the video below).  

@@ -7,6 +7,8 @@ url: /2017/05/07/Official-Bias/
 
 Every match win involves some luck. Whether it's the coin toss or the bounce off a clipped net, some events in a tennis match are outside of a player's control. And the sport accepts that. But we shouldn't accept it when it comes to line calls, especially when there is technology that can prevent line call errors.
 
+<!--more-->
+
 It is hard to find a better recent example of the frustration of a bad call than the overrule in the semifinal of the [Monte Carlo Masters](http://www.tennis.com/pro-game/2017/04/goffin-bad-call-was-umpires-not-nadals/65622/) two weeks ago. The call happened in David Goffin and Rafael Nadal's match and the result lost Goffin the 4-2 position in the first set that he had earned. 
 
 <div style="position:relative;height:0;padding-bottom:50.25%;"><iframe src="https://www.youtube.com/embed/fVKCyeW2DCA?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>

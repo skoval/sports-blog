@@ -7,6 +7,8 @@ url: /2017/02/25/Elo-Error-Events/
 
 With all of the tiers that exist on the professional tennis circuit, from 10K events up to the Majors, I've often wondered how tournament tiers should be factored into Elo predictions and whether some events should be excluded entirely. The standard Elo gives players a bigger boost (10% exactly) for wins at Majors but treats wins against similar opponents at any other event the same. 
 
+<!--more-->
+
 Most of the time I've been working with Elo I have used ratings that were based on 250 events and above (International and above for women). Recently, I updated ratings to include _all_ professional events. I was curious what difference, if any, this would have for the predictions at those higher level events.
 
 Using match outcome from 1991 to the present, the RMSE for men shows a very subtle change whether we include Futures and Challengers or we don't. The RMSE is modestly reduced at the lower tier events and gets progressively smaller as the strength of event increases.

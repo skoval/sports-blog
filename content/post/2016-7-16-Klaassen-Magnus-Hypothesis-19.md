@@ -7,6 +7,8 @@ url: /2016/07/16/Klaassen-Magnus-Hypothesis-19/
 
 The 2016 Wimbledon Championships brought us a number of stories and memorable matches. But, with the third round exit of Novak Djokovic, we _didn't_ get to see a semifinal between Djokovic and Federer. We will have to wait a few more weeks for the arrival of the US Open for the next opportunity to see if Federer can still test Djokovic on a slam stage.
 
+<!--more-->
+
 <div style="float: left; padding:2%;"><img src="/assets/usopen_ms_final.png" ></div>
 
 Any one with an interest in numbers will especially want to see a rematch of the 2015 US Open men's final. Federer and Djokovic's title-deciding match on Arthur Ashe last year was one of the most statistically unusual matches we have seen in the latter stages of a slam in recent years. Most of us remember that Federer lost in four sets and was woeful on break point conversions (converting just 4 of 23 break point chances to be exact). But did you know that Federer actually won a higher percentage of total points on serve and return? 

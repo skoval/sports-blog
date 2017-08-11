@@ -5,10 +5,13 @@ title: Are Net Points Murray's Kryptonite?
 url: /2017/04/29/Murray-Serve-Volley/
 ---
 
-<div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;height:70%;max-width:396px;float:right;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.no/detail/521553094" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:150.000000% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/521553094?et=j13cnPh4SipQmCNiZASAQg&tld=no&viewMoreLink=on&sig=50HPYGyg3wYouo3-CJSFVsr1l_5-CCBjbMuwxPjg5sI=&caption=true" width="396" height="400" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
-
 
 Despite starting the 2017 season as World No. 1 for the first time in his career, Andy Murray has had a lackluster go of it so far. After Murray's Round of 16 loss at the Monte Carlo Masters last week, his match record was 13 and 4. Now, in terms of wins and losses alone, that puts him on par with his performances thru the end of April in 2016 and 2014, but far behind his record in 2015 when he had bagged 23 wins and just 5 losses by this point in the calendar.
+
+<!--more-->
+
+<div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;height:70%;max-width:396px;float:right;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.no/detail/521553094" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:150.000000% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/521553094?et=j13cnPh4SipQmCNiZASAQg&tld=no&viewMoreLink=on&sig=50HPYGyg3wYouo3-CJSFVsr1l_5-CCBjbMuwxPjg5sI=&caption=true" width="396" height="400" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
+
 
 But even with a match record that isn't all that dissimilar to recent season starts, something seems off with Murray. This sense comes not only from the losses themselves but _how_ and _to whom_ he has lost. 
 

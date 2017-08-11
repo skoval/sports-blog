@@ -7,6 +7,8 @@ url: /2016/12/24/AOLeaderboard-Mens-Distances/
 
 During a tennis match broadcast you will sometimes see a stat on the distances run by players. But we rarely get a look at the distances run over all matches in a tournament or a season, numbers that could tell us what kinds of distances are typical at the elite level and what are extreme.
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;float:left;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/462065316" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/462065316?et=9BG-slL3RGRxKDHMztAVoQ&viewMoreLink=on&sig=iO2lXD8sHzjEl44p3Ps4b-X0aMX3zUXqZKX5Y7prJtA=&caption=true" width="594" height="396" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 Using tracking data from the Australian Open analyzed by the GIG, we can start to take a deeper look at the physical demands of high-performance tennis. In this post, I'll focus on the distances covered by male singles players in the past three AOs. 

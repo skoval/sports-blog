@@ -7,6 +7,8 @@ url: /2017/01/22/AO2017-Nadal-Monfils/
 
 As I write, Andy Murray and Mischa Zverev are battling for a place in the quarterfinals in what has the makings of an epic. Another match we all hope will deliver the same excitement is Rafael Nadal and Gael Monfils' meeting on Monday, in the marquee night match on Rod Laver Arena.
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;float:right;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/463442901" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/463442901?et=95pzl0tfQ8pwmviid5zXgg&viewMoreLink=on&sig=wZXe08kc44K1H7YZ1xBJXP4Db71O0II53598TmFlVjk=&caption=true" width="594" height="396" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 The last time Monfils and Nadal met here was in the third round of 2014. Nadal won that match in an easy straight sets, a scoreline that would seem surprising given Monfils' talent and physicality.

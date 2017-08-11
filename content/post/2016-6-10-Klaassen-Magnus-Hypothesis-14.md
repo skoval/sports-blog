@@ -7,6 +7,9 @@ url: /2016/06/10/Klaassen-Magnus-Hypothesis-14/
 
 Last weekend, when the sun finally shone down on Philippe Chatrier, we witnessed two very different but equally fascinating storylines emerge. On the women's side, twenty-two year old Garbiñe Muguruza, a rising star with only one previous appearance in a Grand Slam final, thwarted Serena Williams' third bid at her twenty-second title to her first major win. 
 
+<!--more-->
+
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:445px;float:left;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/538265646" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/538265646?et=-8_XKTH9TbxUndyUxszDqw&viewMoreLink=on&sig=p4ynFy7SPeob_6Js8KvunWreNuZ1jh_KUGYSJMNDM6k=&caption=true" width="445" height="297" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 On the men's side, after three finals appearances, Novak Djokovic defeated Andy Murrary to win his first French Open title. With this win, the World No. 1 joined the members of the career Grand Slam club and cemented his place in the conversation for greatest of all time.

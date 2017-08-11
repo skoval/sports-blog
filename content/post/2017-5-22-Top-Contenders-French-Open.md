@@ -7,6 +7,7 @@ url: /2017/05/22/Top-Contenders-French-Open/
 
 Yesterday, I took a look at the clay-court serve performance of four of the ATP players most in contention for the 2017 Roland Garros title&mdash; Rafael Nadal, Dominic Thiem, Novak Djokovic and Andy Murray. [That analysis](http://on-the-t.com/2017/05/21/Top-Contenders-French-Open/) showed that Rafael Nadal has so far separated himself on serve by 5 to 15 percentage points on average. An impressive stat next to anyone but especially when compared to the players who are some of his toughest rivals for another Major win. 
 
+<!--more-->
 
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:494px;float:left;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com.au/detail/685311366" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:65.824916% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/685311366?et=9Dx_N4fEQFZmfMVF3C5ICQ&tld=com.au&viewMoreLink=on&sig=EExHSI7FWUOrThI68MZwExu5lhSIf38DoXU6C1E8HK4=&caption=true" width="594" height="391" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;" ></iframe></div><p style="margin:0;"></p></div>
 

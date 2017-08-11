@@ -7,6 +7,8 @@ url: /2017/04/01/Miami-Open-Clutch-Leaders/
 
 With all but the final round of the 2017 Miami Open decided, it's time to look back at some of the most impressive performances at the second Masters event of the season. Here, we measure _impressiveness_ by how clutch a player was throughout the event. 
 
+<!--more-->
+
 `Clutch performance` weighs points with more pressure and more importance to the match more heavily than less important points. This is different from typical match statistics that treat all points as equally important, giving the same weight, for instance, to the first point of the match as the set-deciding point of a tiebreak. But, if we really want to evaluate the quality of a match performance, we ought to give more important points more influence, which is exactly what clutch statistics aim to do. 
 
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:80%;max-width:594px;float:right;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com.au/detail/662213716" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:73.569024% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/662213716?et=KqYJQ-ZMRYBM-L5E9PA39Q&tld=com.au&viewMoreLink=off&sig=9i0LwqjZto5g-_rVmI12epRabLVkE2zdfPwffPLjjY4=&caption=true" width="594" height="437" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>

@@ -7,6 +7,8 @@ url: /2017/01/24/AO2017-Shot-Quality/
 
 The second week of a Major always reminds us what a high-level of shot making we are lucky to witness in the current era of tennis. Yet, even among the top players we know there is variation in the _quality of shot_. 
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:80%;max-width:594px;float:right; padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/632541328" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/632541328?et=3eD9iNuvTMd9Dlws_T27AA&viewMoreLink=on&sig=5PttTTDV5dEVICAlTB0ywC4BbFZ9rizjecHYkmFgJLY=&caption=true" width="594" height="396" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 At the Game Insight Group we have been working on a way to measure shot quality. Winner and error counts tell us something about the outcomes of shots ending a point, but that is only a subset of shots and a somewhat crude measure for the shots it does include. Often we want to know more than what happened as a result of a shot, we want to know what the shot was like and how it compares to other shots in the game.

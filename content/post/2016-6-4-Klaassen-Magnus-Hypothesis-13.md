@@ -7,6 +7,9 @@ url: /2016/06/04/Klaassen-Magnus-Hypothesis-13/
 
 Zebra prints and back-to-back matches haven't been the only strange things to appear at this year's French Open. The washout that has been a catastrophe for the 2016 Roland Garros schedule has created a myriad of unusual pressures and demands for the players (and a few of them have been vocal about their dislike of the situation). As a consequence of all this, player adaptability and grit have taken higher places in the list of skills needed to advance to the next round than would be the case in drier conditions. 
 
+<!--more-->
+
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:445px;float:left;padding:1%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/533409776" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:66.498316% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/533409776?et=0DhSHv4DTHdYtp-f73eegA&viewMoreLink=on&sig=PSPm2qZDuZAyX5AKF5S1xUxBOYPJbKhH79BGoErPStc=&caption=true" width="445" height="296" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 Yet even under more normal conditions, when we can set aside the X factor of weather, there is still a lot of debate over the most important ingredients to being a champion. In this week's myth, Klaassen and Magnus attempt to unravel part of this debate by pitting first and second serve ability against each other. 

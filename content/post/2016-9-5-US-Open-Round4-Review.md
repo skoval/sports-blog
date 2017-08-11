@@ -7,6 +7,8 @@ url: /2016/09/05/US-Open-Round4-Review/
 
 Day 7, the last day of week 1 at the 2016 U.S. Open, saw the losses of two Americans (Keys and Sock), the upset of a favorite for the men's title (Nadal), and the resurgence of a former World No. 1 (Wozniacki). Below are the point-by-point win prediction charts for 4 of the most interesting wins in the first half of Round 4. 
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:395px;float:left;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/599231910" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:150.379747% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/599231910?et=hxJl7tEYSy18ELPIDbVdfQ&viewMoreLink=off&sig=bUB_hd-AftfuuzeBe0H3Rt-2KZCUcKQIgj29Wc-DOz0=&caption=true" width="395" height="594" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 <b><u>Woz Cruises</u></b>

@@ -7,6 +7,9 @@ url: /2016/02/01/AO-Retrospective/
 
 This weekend we closed the chapter on the first Grand Slam of 2016. As all our  news feeds overflowed with the photos of the tournament champions Novak Djokovic and first-time major winner, Angelique Kerber, in the hours that followed their victories, each snapshot was a reminder of how much can happen in just two weeks time. 
 
+<!--more-->
+
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:445px;float:right;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/507523454" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:67.171717% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/507523454?et=kZzH2l50S-5A4FAe4qV_TQ&viewMoreLink=on&sig=otre5xuxXTkiAMvUXUihzF4RyB43JyJQ5PQqw0s7XEU=&caption=true" width="445" height="299" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 Thinking back on the events at Melbourne Park, I had the sense that the Open was a particularly surprising one for the women's singles. While the men's side, especially after the disappointing exit of Milos Raonic in the semifinals, seemed to have played out, by and large, as we might have expected. 

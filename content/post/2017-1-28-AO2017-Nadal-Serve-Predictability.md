@@ -7,6 +7,8 @@ url: /2017/01/28/AO2017-Nadal-Serve-Predictability/
 
 We are looking forward to two classic finals in the men's and women's events at this year's Australian Open. The men's matchup will be the 35th meeting of Rafael Nadal and Roger Federer and their 22nd meeting in a tournament final. 
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:60%;max-width:396px;float:right;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/632837584" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:150.000000% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/632837584?et=4KoQWuriR4lpbqnP67Jing&viewMoreLink=on&sig=M2DV3mUvk0ZSAkMv5epypEWnKTBbOIuLT7soZwJqFpk=&caption=true" width="396" height="594" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 Nadal earned his spot in the final by prevailing over an on-the-rise Grigor Dimitrov in a spectacular five-set, four-hour plus semifinal. There were many takeaways from that match but the one that stood out most to me when thinking about the upcoming final was Nadal's serve patterns. 

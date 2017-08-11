@@ -7,6 +7,8 @@ url: /2017/02/17/Elo-Error/
 
 Last week I began to take a [look at error patterns](http://on-the-t.com/2017/02/10/Elo-Court-Pace/) with tennis Elo predictions. The question of interest was how does serve advantage influence Elo performance?
 
+<!--more-->
+
 Looking at Elo error rates against a player's average serve performance in a year showed the most error for average servers. In this post, I want to look at serve performance at events and in matches to better understand how Elo performs across services and for better or worse servers.
 
 The first analysis looks at the way error in Elo predictions for ATP matches (from 1991 to the present) varies with the average serve performance at the event, an indirect measure of the court pace. The chart shows a negative correlation where Elo error tends to decrease as the serve advantage of an event (pace) increases. An event with an average serve percentage as low as 57% has an RMSE of 0.48 whereas an event with an average of 67% has an RMSE of 0.45, a reduction of nearly 10%.

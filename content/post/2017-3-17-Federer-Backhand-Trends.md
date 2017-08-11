@@ -7,6 +7,8 @@ url: /2017/03/17/Federer-Backhand-Trends/
 
 If tennis fans thought Roger Federer's Australian Open win over Rafael Nadal was a fluke in an otherwise lopsided head-to-head, Federer's devastating victory over Nadal this week at the Indian Wells Masters was a clear message that the AO won't be a one-off for his 2017 season. 
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:416px;float: left; padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/653636364" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:142.788462% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/653636364?et=vFIVJQhHQEFqpl5jLqBgfQ&tld=com&viewMoreLink=off&sig=b5iposZs_RCjOxkPJYiKYFVEJNkr4PrWLelp5scXvwo=&caption=true" width="416" height="594" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 In his straight-set desert victory, Federer needed just a little over an hour to get into the quarterfinals. Giving no break points to Nadal while converting 4 of 5 break point opportunities himself, Federer made surviving the "Group of Death" look easy. Even Nadal had to acknowledge that [he was outplayed](http://www.atpworldtour.com/en/news/nadal-indian-wells-2017-wednesday). 

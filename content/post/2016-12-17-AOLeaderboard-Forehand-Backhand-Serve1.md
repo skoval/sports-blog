@@ -7,6 +7,8 @@ url: /2016/12/17/AOLeaderboard-Forehand-Backhand-Serve1/
 
 One of the ways that the men's and women's games differ the most is the serve. While previous posts on this site have shown that the speeds of men's and women's groundstrokes are actually [fairly comparable](http://on-the-t.com/2016/11/26/AOLeaderboard-Forehand-Speed/), the men separate themselves by far on serve. On hard court, the average first serve for men is 115 mph and the average first serve for women is 99 mph.
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;padding:2%;text-align:center;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/619209492" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:67.171717% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/619209492?et=HyVrc1aaQSlKI1RLNaiU4A&viewMoreLink=on&sig=shRib3BjW60JXR-3TXn_N_5XdHdSu_hOw_a8p8dbAys=&caption=true" width="594" height="399" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 This difference between the tours is well known. What is not as well understood is the secondhand effects that this difference on serve might have for the patterns observed in men's and women's service games. With modern tracking data, the sport can begin to delve into these effects.

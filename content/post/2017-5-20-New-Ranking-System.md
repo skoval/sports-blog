@@ -8,6 +8,8 @@ url: /2017/05/20/New-Ranking-System/
 In her first match at the Rome Masters, World No. 1 Kerber was ousted by 	
 the 68th ranked player on tour, Anett Kontaveit, in straight sets. Despite holding the best rank on tour, Kerber has seemed in a slump for most of the season with early round loses becoming a norm. 
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:494px;float:left;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com.au/detail/684170288" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:61.111111% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/684170288?et=uS2RninRQgds7Xeq5V3WFA&tld=com.au&viewMoreLink=on&sig=b9Ly-OgWYyZeW_l4H1hL0pioeoTchf_K-SDVnly7lkc=&caption=true" width="594" height="363" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;" ></iframe></div><p style="margin:0;"></p></div>
 
 Kerber's loss continues an undesirable streak for No. 1 seeds in the 2017 WTA season. Look across the 11 results at Premier-level events or better this year and you will not find a single No. 1 seed among their champions. Kerber's loss in Rome this week brings that tally to 12. 

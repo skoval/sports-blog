@@ -7,6 +7,8 @@ url: /2016/05/01/Klaassen-Magnus-Hypothesis-9/
 
 After Alexander Zverev took the first set in 6-4 against Dominic Thiem at Saturday's [BMW Open semifinal](http://www.atpworldtour.com/en/news/thiem-kohlschreiber-munich-2016-saturday), it looked like he was on track to stop the Austrian's 29th ATP singles win this season. But the tables quickly turned and after taking the second sets in 6-2 and 6-3, Thiem ultimately prevailed, securing a spot in the final against Philipp Kohlschreiber.
 
+<!--more-->
+
 
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:445px;float:right;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/526500736" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/526500736?et=qzwnASvOQkxMfKTYZZEedQ&viewMoreLink=on&sig=iZZlcarT7LyrjoeUwN5sOu3QNJd6WkuqPrL35WFVXUA=&caption=true" width="445" height="297" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 

@@ -7,6 +7,8 @@ url: /2017/04/06/Best-Starts/
 
 After the first quarter of the 2017 season, Roger Federer has his 18th Grand Slam title and a 19-1 win record overall. Such an impressive start naturally leads us to ask: Where should we rank Federer's 2017 start against the other seasons of his career? How does it compare to the best season starts in tennis history?
 
+<!--more-->
+
 Tennis Australia's Game Insight Group has scoured the first three months of the men's Open Era to try to shed light on these questions. Certainly we all have our personal favorites, but we at GIG wanted to take a more objective approach to identifying the best season starts in tennis history. So we use statistics.
 
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:80%;max-width:594px;float:right;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com.au/detail/663808836" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:64.478114% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/663808836?et=pNVC7rpsQlhHIqKyo4bDFQ&tld=com.au&viewMoreLink=off&sig=3jYaaEG7293e52X7tbEydxVRNJOpR2CcQUZ9OkJbWr0=&caption=true" width="594" height="383" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>

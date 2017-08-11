@@ -7,6 +7,7 @@ url: /2016/09/02/US-Open-Round2-Review/
 
 The final day of Round 2 at the 2016 U.S. Open brought some more upsets and nail-biting battles. I have selected 6 of the most contested matches of the day and created point-by-point prediction charts to track the ebbs and flows of each. The expectations for each match are based on [player Elo ratings](http://projects.fivethirtyeight.com/2016-us-open-tennis-predictions/mens/). These ratings tells us how capable a player should be of winning a match against their drawn opponent if both players are playing to their expected ability. 
 
+<!--more-->
 
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;float:right;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/598578642" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:60.774411% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/598578642?et=9ixI8O7JRRBQokdbSjcuSQ&viewMoreLink=on&sig=veoLGmxvubWTmYJBidsbxVVg5PdO47e_vNzneXhMl_k=&caption=true" width="594" height="361" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 

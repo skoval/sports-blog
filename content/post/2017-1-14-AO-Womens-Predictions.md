@@ -7,6 +7,8 @@ url: /2017/01/14/AO-Womens-Predictions/
 
 With the release of the 2017 Australian Open draw yesterday, the tennis world will be spending the weekend mulling over the implications of where the seeds and dark horses of the event have landed. To help navigate these discussions, the Game Insight Group is breaking down the probabilities of the likely outcomes of the tournament, round by round. 
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;float:left; padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/507520392" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/507520392?et=tFI7vuwaQWJSSm6sNzPkzQ&viewMoreLink=on&sig=l6es5GfFUyZ8LP1EXrG5LSHqxiUqS4W_nZdDQCibEEI=&caption=true" width="594" height="396" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 

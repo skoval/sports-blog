@@ -7,6 +7,9 @@ url: /2016/05/21/Klaassen-Magnus-Hypothesis-12/
 
 In this week's [Beyond the Baseline](http://www.si.com/si-beyond-the-baseline-tennis-podcast) preview to the French Open, Jon Wertheim called the women's draw from spot 2 down "all over the place". With only 2 2016 clay court titles among the top 4 seeds on the women's side and Serena Williams without a major title since last year's Wimbledon, it's looking like anyone's guess over which WTA player will walk away with the Roland Garros title in two weeks. 
 
+<!--more-->
+
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:445px;float:left;padding:2%"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/530517938" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:69.023569% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/530517938?et=nPOtrAzjTJ5Vt6RjpwJHYQ&viewMoreLink=on&sig=LWm55ZHE0XKG7OEpSZ9U_0w-jIEuqJGK_V0V1QmI7Xo=&caption=true" width="445" height="307" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 Many in the tennis world have argued that men's tennis is more competitive than women's tennis. But does the chaos we've seen on the women's side this year turned that idea on its head? How would one even go about try to judge what it means for a tour to be "competitive", anyway? This is exactly the challenge Klaassen and Magnus take on in the next of their 22 myths of tennis. 

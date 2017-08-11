@@ -7,6 +7,8 @@ url: /2017/01/25/AO2017-Women-Attacking/
 
 This year's Australian Open has turned many of the game's norms on its head. While the dust is still settling from the upsets of a number of the favorites in the first week, we are starting to see how some of the surprises for the title have been so successful. 
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:80%;max-width:594px;float:left;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/632439262" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/632439262?et=ZCAHLFHTRzlbWs4RUQAtFg&viewMoreLink=on&sig=eyOC8uoccFPd61qHHiIJ_x_FRnWo2TePVMukZpE7EEI=&caption=true" width="594" height="396" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 Players like Mischa Zverev and Mirjana Lucic-Baroni wouldn't have seemed to have much in common at the start of the tournament other than being dark horses for spots in the second week of the tournament. But after each made it thru a wild first week, we can see that they both likely got some help from their attacking style of play. 

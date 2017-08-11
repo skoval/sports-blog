@@ -7,6 +7,8 @@ url: /2016/09/07/US-Open-Round5-Review/
 
 Day 9 brought us the first half of the quarterfinals of the 2016 U.S. Open. It was a day when the favorites were in top-form, closing out all of their matches in swift fashion. Here we review how both the two women's and two men's quarterfinal matches of the day were won.
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;padding:2%;align:center;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/599742250" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/599742250?et=2vZm0IRITGpU6jpOyyhx2A&viewMoreLink=off&sig=frTCmhFUPtJV81UXlzAmCKpO8Y7F8C38ZV36vJqboeg=&caption=true" width="594" height="396" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 

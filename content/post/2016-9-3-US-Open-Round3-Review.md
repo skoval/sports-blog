@@ -7,6 +7,8 @@ url: /2016/09/03/US-Open-Round3-Review/
 
 We are nearing the end of the first day of Round 3 and the surprises continue. There were some big wins and near big losses for the players at Flushing today. In this post, I will look at the point-by-point predictions for 5 of the day's tightest matches. By looking over the charts of the match-in-progress can help us appreciate how a match was won and what some of the most shocking wins of the day were. 
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:443px;float:left;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/598109474" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:134.085779% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/598109474?et=Q42kwzqfRAhB4uIg_2lKig&viewMoreLink=on&sig=PWRhxlkzZKnPNJZvzwP8VXcmxRxVEuSMxOYhCRu4EYE=&caption=true" width="443" height="594" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 <b><u>Edmund takes down Big John</u></b>

@@ -7,6 +7,7 @@ url: /2017/01/13/AO-Mens-Predictions/
 
 The 2017 Australian Open draw is out. To put some numbers to the prospects for the 128 players on each side of the draw who will make their bid for the title, Tennis Australia Game Insight Group has put together predictions for the tournament outcomes. 
 
+<!--more-->
 
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:80%;max-width:594px;float:right;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/631572878" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:68.181818% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/631572878?et=ze6bmyqFSrJY_5U3aZ2vRA&viewMoreLink=on&sig=3OsImZeL9wctp0KiqHkz-BDuU9eP4yh68tbAuihZXnY=&caption=true" width="594" height="405" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 

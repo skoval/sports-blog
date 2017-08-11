@@ -7,6 +7,8 @@ url: /2016/10/14/Clutch-Differentials/
 
 In the past few posts, I have been applying a new metric _clutch averages_ to the men's and women's singles matches at the 2016 U.S. Open. The purpose of these averages is to focus on how players tend to perform on the most important points in a match. In this way, these stats can help us to find out which players win the majority of the most important points? And which players are most and least affected by the scoreline?
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:458px;float:left; padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/614554074" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:129.694323% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/614554074?et=fOtv8_1iSHREtJiVOhN9rg&viewMoreLink=off&sig=P3sDoEGlGpydeUnjglYo3eKJ0uvWoQckca9T3om91fw=&caption=true" width="458" height="594" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 One of the things that is always a concern when interpreting stats in tennis is the _opponent difficulty_.  If Thomaz Bellucci wins 60\% of clutch points on serve against Novak Djokovic it is a more impressive result than if he were facing a tournament qualifier. 

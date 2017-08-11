@@ -7,6 +7,8 @@ url: /2017/05/27/Mens-Clay-Trends/
 
 The French Open draw is out and Round 1 is only hours away. Four of the names that will be watched closely on the men's side are 9-time champion Rafael Nadal, defending champion Novak Djokovic, defending finalist Andy Murray, and aspiring title-contender Dominic Thiem. 
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:494px;float:left;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/468122780" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:66.835017% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/468122780?et=zU8xwbukTB1goMbiPDlRZA&tld=com&viewMoreLink=on&sig=VqaHnxiFg8UmcdGxYrHJS4Lwsf6HE63ijRMbQq3NTF4=&caption=true" width="594" height="397" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;" ></iframe></div><p style="margin:0;"></p></div>
 
 I've taken a look at the clay court performance of each of these four so far in 2017. In this post, I want to take a bigger step back and bring more context to each player's clay court performance as they prepare for their first matches in Paris. 

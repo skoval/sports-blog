@@ -7,6 +7,9 @@ url: /2015/11/07/Developing-WAR-for-Tennis/
 
 If, based on the title of this post, you were expecting some kind of jingoistic fantasy of tennis players armed with bazookas, you were mistaken. This post isn't about that kind of war (as much as _ESPN_ might be interested in such a gladiatorial venture); it's about the sabermetric kind of WAR.
 
+<!--more-->
+
+
 <img src="/assets/bazooka.jpg" style="float:right;" />
 
 _WAR_, or _wins above replacement_, is a [statistic used in major league baseball](http://www.baseball-reference.com/blog/archives/6063) that attempts to measure an individual player's value. As its name suggests, _value_ here is measured by the estimated wins a player contributes to his team relative to a baseline that is defined by the skill of a typical player in the minor leagues, the so-called 'replacement player'. 

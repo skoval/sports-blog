@@ -7,6 +7,8 @@ url: /2017/01/18/AO-Day2-Charts/
 
 There were fewer upsets and escapes on Day 2 of the 2017 Australian Open, but still plenty of excitement. Below you can find the point-by-point win prediction charts for four of the most exciting matches of the day. 
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;float:right;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/631870824" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:66.161616% 0 0 0;width:80%;"><iframe src="//embed.gettyimages.com/embed/631870824?et=JQTJOqwRRupYSEN5g0YQRw&viewMoreLink=on&sig=icIbwKVA0sw4xYduDRQAFIUqnVaEiX9U6wATcTQNrqM=&caption=true" width="594" height="393" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 ### Ivo Karlovic d. Horacio Zeballos (6-7(6) 3-6 7-5 6-2 22-20)

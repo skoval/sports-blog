@@ -7,6 +7,7 @@ url: /2017/01/15/AO2017-Luck-of-Draw/
 
 One of the curious things about tennis is that every seeded player's path to the title is different. When the champions are hoisting a tournament trophy over their heads, we largely ignore the role that luck might have played in their victory. But should it be ignored? And how much of a role does luck play anyway? 
 
+<!--more-->
 
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;float:right;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/631365154" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/631365154?et=UZlnb2l-R9ZukB_RvU3eAQ&viewMoreLink=on&sig=dSZ1NyyIa7kH1HXO13FgiMYVi7AAyBg8DXTa6z76nOM=&caption=true" width="594" height="396" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 

@@ -7,6 +7,8 @@ url: /2016/08/31/US-Open-Fritz-Sock-Review/
 
 We have gotten through the first round and already the 2016 U.S. Open has given us a number of epics. One of those was the all-American matchup of Jack Sock and Taylor Fritz, a match that was highlighted in the clutch preview [on this blog](http://on-the-t.com/2016/08/29/US-Open-Mens-First-Round-Preview/).
 
+<!--more-->
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:414px;float:right; padding: right;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/597894970" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:143.478261% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/597894970?et=D1-MRmzVQu9rWEYR8Trzbw&viewMoreLink=off&sig=YWksJlzMbQXyz30jzheGeYIoxIWCZi3_rhF0gPkH_RU=&caption=true" width="414" height="594" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 The clutch summaries for those players boded well for a tight match and neither player disappointed. Still, it is the kind of match you hate either player to lose. After fighting back from two sets down, Fritz couldn't manage to win three sets in a row and he went down in the fifth (6-7(3) 5-7 6-3 6-1 4-6) just as he did when he met Sock at the Australian Open earlier this year. 

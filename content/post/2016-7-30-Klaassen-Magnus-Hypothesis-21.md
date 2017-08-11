@@ -7,6 +7,7 @@ url: /2016/07/30/Klaassen-Magnus-Hypothesis-21/
 
 July has been a stellar month for British player [Johanna Konta](http://www.wtatennis.com/news/article/5755391/title/champions-corner-konta). After defeating one of her idols, Venus Williams, to win a Premier title at Stanford, Konta will play today for a spot in the semifinal of the Rogers Cup.
 
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:396px;float:right;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/578126848" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:150.000000% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/578126848?et=0rBfbsf7SIJxsl2olREBQA&viewMoreLink=off&sig=NhpqZ44M9RksdhhuwAUtT3f308OJQ6DR5x8D6183scg=&caption=true" width="396" height="594" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 This month, Konta just can't seem to lose. When players hit a streak like Konta has, it can sometime seem like winning becomes inevitable, as if with each win added to their record the next win becomes even more likely. 
