@@ -10,7 +10,7 @@ bp_plus$player <- factor(bp_plus$player, level = bp_plus$player[order(bp_plus$bp
 gg1 <- bp_plus %>%
 	ggplot(aes(y = bp.plus.diff.mean, ymin = bp.plus.diff.lower25, ymax = bp.plus.diff.upper25, x = player)) + 
 	geom_hline(yintercept = 0, color = "red") + 
-	geom_pointrange(size = 2, color = tableau_color_pal()(1)) + 
+	geom_pointrange(size = 1.5, color = tableau_color_pal()(1)) + 
 	theme_bw()	+
 	scale_y_continuous("Differential") + 
 	scale_x_discrete("") + 
@@ -23,7 +23,7 @@ bp_plus$player <- factor(bp_plus$player, level = bp_plus$player[order(bp_plus$bp
 gg2 <- bp_plus %>%
 	ggplot(aes(y = bp.plus.chance.mean, ymin = bp.plus.chance.lower25, ymax = bp.plus.chance.upper25, x = player)) + 
 	geom_hline(yintercept = 0, color = "red") + 
-	geom_pointrange(size = 2, color = tableau_color_pal()(1)) + 
+	geom_pointrange(size = 1.5, color = tableau_color_pal()(1)) + 
 	theme_bw()	+
 	scale_y_continuous("Differential") + 
 	scale_x_discrete("") + 
@@ -32,3 +32,4 @@ gg2 <- bp_plus %>%
 	ggtitle("BP Plus Opportunities")
 
 gg2	
+
