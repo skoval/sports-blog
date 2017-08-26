@@ -25,8 +25,18 @@ game_summary <- atp_games %>%
 		cum.games = cum.games
 	) %>%
 	complete(age_group, fill = list(cum.games = NA))
+
+game_summary <- game_summary[order(game_summary$firstyear, game_summary$id, game_summary$age_group),]	
 	
-game_summary <- atp_games %>%
+game_summary <- game_summary %>%
+	group_by(id) %>%
+	dplyr::mutate(
+		cum.games = na.approx(cum.games, na.rm = F) 
+	)
+
+game_summary$cum.games[is.na(game_summary$cum.games)] <- 0
+
+game_summary_stats <- game_summary %>%
 	group_by(year_group, age_group) %>%
 	dplyr::summarise(
 		median = median(cum.games),
@@ -34,7 +44,9 @@ game_summary <- atp_games %>%
 		upper = quantile(cum.games, .75)
 	)
 	
-gg2 <- game_summary %>%
+game_summary_stats$age_group <- as.numeric(as.character(game_summary_stats$age_group))
+	
+gg2 <- game_summary_stats %>%
 	filter(year_group <= 2000, year_group > 1970) %>%
 	ggplot(aes(y = median / 1000, x = age_group, colour = factor(year_group), group = year_group)) + 
 	geom_hline(yintercept = 10, col = "red") +
