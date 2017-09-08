@@ -122,7 +122,7 @@ result
 predictions <-  lapply(list(quarter1, quarter2, quarter3, quarter4), h2h_prediction)
       
       
-quarter.picks <- predictions[[4]][1:10,c("player","7")]
+quarter.picks <- predictions[[1]][1:10,c("player","7")]
 names(quarter.picks)[2] <- "win"
 
 quarter.picks$year <- sub("(.*)(20..)", "\\2", quarter.picks$player)
@@ -140,8 +140,9 @@ quarter.picks %>%
 	scale_colour_tableau(name = "") + 
 	scale_fill_tableau(name = "") + 
 	theme_bw() + 
-	theme(legend.position = "none", text = element_text(size = 16)) +
-	ggtitle("Cilic's Quarter vs Wawrinka's 2016 Quarter")
+	theme(legend.position = "none", 
+		text = element_text(size = 16), plot.title = element_text(hjust = 2)) +
+	ggtitle("Nadal's Quarter vs Murray's 2016 Quarter")
 	
-ggsave(file = "~/Software/sports-blog/public/img/usopen_quarter4.png")
+ggsave(file = "~/Software/sports-blog/public/img/usopen_quarter1.png")
 
