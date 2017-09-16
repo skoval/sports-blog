@@ -101,4 +101,47 @@ which_usa <- semifinals %>%
 		all.usa = all(player_name %in% semifinalists)
 	)
 	
+which_usa <- semifinals %>%
+	group_by(sim) %>%
+	dplyr::summarise(
+		all.usa = all(usa == 1),
+		players = paste(player_name, sep = ":", collapse = "")
+	)	%>%
+	filter(all.usa)
+	
 table(which_usa$all.usa)
+
+
+load("usopen_draws.RData")
+
+usopen <- usopen_draws %>%
+	filter(year == 2017)
+	
+usa_players <- c(
+	"Paul T.",
+	"Harrison R.",
+	"Young D.",
+	"Tiafoe F.",
+	"Smyczek T.",
+	"Kypson P.",
+	"Fratangelo B.",
+	"Fritz T.",
+	"Querrey S.",
+	"Eubanks C.",
+	"Escobedo E.",
+	"Kwiatkowski T. S.",
+	"Isner J.",
+	"Sock J.",
+	"Aragone J.",
+	"Johnson S.",
+	"King E.",
+	"Donaldson J.",
+	"Sandgren T."
+)
+
+usopen$usa <- usopen$player %in% usa_players
+
+# Set constant matchnum for all players
+usopen$matchnum <- 200
+
+semifinals <- tournament_prediction("player_name","match", "elo","matchnum", data = usopen, n = 100000)
