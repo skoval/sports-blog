@@ -9,7 +9,7 @@ If you are like me, you are spending the day after the final match of the 2017 A
 
 <!--more-->
 
-<div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;float:left;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/633000920" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:70.370370% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/633000920?et=0CF9ph4NTLVbDVPpIPc_XQ&viewMoreLink=on&sig=L0mOE7ca38vcEw_26lYESgYrVp7Ht9V4JRV0MhDqogw=&caption=true" width="594" height="418" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
+<div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:394px;float:left;padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/633000920" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:70.370370% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/633000920?et=0CF9ph4NTLVbDVPpIPc_XQ&viewMoreLink=on&sig=L0mOE7ca38vcEw_26lYESgYrVp7Ht9V4JRV0MhDqogw=&caption=true" width="594" height="418" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 The classic meeting of Federer and Nadal might have been a frustrating one for fans who have been following their meetings since 2004. With both players coming back from an injury-ridden 2016 season, the match was peppered with scrappiness and brilliance. Still, for two players who know each other's playing style so well and bring such an unparalleled passion to the game, every new meeting at a Major is somehow a bit more special than the last. 
 
@@ -21,7 +21,7 @@ The highs and lows of the match made me curious to chart the point-by-point win 
 
 The progress of the match shows that, both players began with nearly even chances for the win (Elo favoring Federer slightly at the start). The first and third set progressed almost identically, starting out with about 50-50 chances and rising to favor Federer by the final games. The second and fourth sets were also symmetrical but in an exactly opposite way, Nadal reversing all that Federer had achieved in the set before. 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1112.embed"></iframe>
+<iframe width="900" height="500" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1112.embed"></iframe>
 
 
 Looking at the patterns of the first thru fourth sets affirms the experience many of us had in watching. There were multiple occassions when we felt like we had seen this before. The deja vu of Federer getting a strong lead only to seem to lose control of the match, especially on service.
@@ -46,7 +46,7 @@ Set 4 was the time warp set of the match. Having the advantage for the win, Fede
 After another controversial medical timeout before the fifth, Federer returned only to be broken in the first set. With Nadal looking like he could go another five years, few of us could have imagined at that point that this would become the most up-and-down set of the match. With his chances down to a doubtful 25%, Federer created 3 break point chances in the second game of the last set but failed to convert.
 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1114.embed"></iframe>
+<iframe width="900" height="500" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1114.embed"></iframe>
 
 
 Those missed opportunities had to feel like nails in the coffin but an efficient service game brought back hope that Federer still had the form and will to pull off a miracle. Again, Federer got to a break point opportunity in Nadal's next service game, the fourth game of the set. Once again Nadal denied that chance. But Federer responded by keeping Nadal at bay and holding serve easily in the following game. 
