@@ -1,0 +1,73 @@
+"year","tourney_name","round","winner_name","loser_name","winner_rank","loser_rank"
+2000,"Australian Open","F","Lindsay Davenport","Martina Hingis",2,1
+2000,"French Open","F","Mary Pierce","Conchita Martinez",7,5
+2000,"Wimbledon","F","Venus Williams","Lindsay Davenport",5,2
+2000,"US Open","F","Venus Williams","Lindsay Davenport",3,2
+2001,"Australian Open","F","Jennifer Capriati","Martina Hingis",14,1
+2001,"French Open","F","Jennifer Capriati","Kim Clijsters",4,14
+2001,"Wimbledon","F","Venus Williams","Justine Henin",2,9
+2001,"US Open","F","Venus Williams","Serena Williams",4,10
+2002,"Australian Open","F","Jennifer Capriati","Martina Hingis",1,4
+2002,"French Open","F","Serena Williams","Venus Williams",3,2
+2002,"Wimbledon","F","Serena Williams","Venus Williams",2,1
+2002,"US Open","F","Serena Williams","Venus Williams",1,2
+2003,"Australian Open","F","Serena Williams","Venus Williams",1,2
+2003,"French Open","F","Justine Henin","Kim Clijsters",4,2
+2003,"Wimbledon","F","Serena Williams","Venus Williams",1,4
+2003,"US Open","F","Justine Henin","Kim Clijsters",3,1
+2004,"Australian Open","F","Justine Henin","Kim Clijsters",1,2
+2004,"French Open","F","Anastasia Myskina","Elena Dementieva",5,10
+2004,"Wimbledon","F","Maria Sharapova","Serena Williams",15,10
+2004,"US Open","F","Svetlana Kuznetsova","Elena Dementieva",9,6
+2005,"Australian Open","F","Serena Williams","Lindsay Davenport",7,1
+2005,"French Open","F","Justine Henin","Mary Pierce",12,23
+2005,"Wimbledon","F","Venus Williams","Lindsay Davenport",16,1
+2005,"US Open","F","Kim Clijsters","Mary Pierce",4,12
+2006,"Australian Open","F","Amelie Mauresmo","Justine Henin",3,6
+2006,"French Open","F","Justine Henin","Svetlana Kuznetsova",5,10
+2006,"Wimbledon","F","Amelie Mauresmo","Justine Henin",1,3
+2006,"US Open","F","Maria Sharapova","Justine Henin",4,2
+2007,"Australian Open","F","Serena Williams","Maria Sharapova",81,2
+2007,"French Open","F","Justine Henin","Ana Ivanovic",1,7
+2007,"Wimbledon","F","Venus Williams","Marion Bartoli",31,19
+2007,"US Open","F","Justine Henin","Svetlana Kuznetsova",1,4
+2008,"Australian Open","F","Maria Sharapova","Ana Ivanovic",5,3
+2008,"French Open","F","Ana Ivanovic","Dinara Safina",2,14
+2008,"Wimbledon","F","Venus Williams","Serena Williams",7,6
+2008,"US Open","F","Serena Williams","Jelena Jankovic",3,2
+2009,"Australian Open","F","Serena Williams","Dinara Safina",2,3
+2009,"French Open","F","Svetlana Kuznetsova","Dinara Safina",7,1
+2009,"Wimbledon","F","Serena Williams","Venus Williams",2,3
+2009,"US Open","F","Kim Clijsters","Caroline Wozniacki",NA,8
+2010,"Australian Open","F","Serena Williams","Justine Henin",1,NA
+2010,"French Open","F","Francesca Schiavone","Samantha Stosur",17,7
+2010,"Wimbledon","F","Serena Williams","Vera Zvonareva",1,21
+2010,"US Open","F","Kim Clijsters","Vera Zvonareva",3,8
+2011,"Australian Open","F","Kim Clijsters","Na Li",3,11
+2011,"French Open","F","Na Li","Francesca Schiavone",7,5
+2011,"Wimbledon","F","Petra Kvitova","Maria Sharapova",8,6
+2011,"US Open","F","Samantha Stosur","Serena Williams",10,27
+2012,"Australian Open","F","Victoria Azarenka","Maria Sharapova",3,4
+2012,"French Open","F","Maria Sharapova","Sara Errani",2,24
+2012,"Wimbledon","F","Serena Williams","Agnieszka Radwanska",6,3
+2012,"US Open","F","Serena Williams","Victoria Azarenka",4,1
+2013,"Australian Open","F","Victoria Azarenka","Na Li",1,6
+2013,"French Open","F","Serena Williams","Maria Sharapova",1,2
+2013,"Wimbledon","F","Marion Bartoli","Sabine Lisicki",15,24
+2013,"US Open","F","Serena Williams","Victoria Azarenka",1,2
+2014,"Australian Open","F","Na Li","Dominika Cibulkova",4,24
+2014,"French Open","F","Maria Sharapova","Simona Halep",8,4
+2014,"Wimbledon","F","Petra Kvitova","Eugenie Bouchard",6,13
+2014,"US Open","F","Serena Williams","Caroline Wozniacki",1,11
+2015,"Australian Open","F","Serena Williams","Maria Sharapova",1,2
+2015,"French Open","F","Serena Williams","Lucie Safarova",1,13
+2015,"Wimbledon","F","Serena Williams","Garbine Muguruza",1,20
+2015,"US Open","F","Flavia Pennetta","Roberta Vinci",26,43
+2016,"Australian Open","F","Angelique Kerber","Serena Williams",6,1
+2016,"French Open","F","Garbine Muguruza","Serena Williams",4,1
+2016,"Wimbledon","F","Serena Williams","Angelique Kerber",1,4
+2016,"Us Open","F","Angelique Kerber","Karolina Pliskova",2,11
+2017,"Australian Open","F","Serena Williams","Venus Williams",2,17
+2017,"Roland Garros","F","Jelena Ostapenko","Simona Halep",47,4
+2017,"Wimbledon","F","Garbine Muguruza","Venus Williams",15,11
+2017,"Us Open","F","Sloane Stephens","Madison Keys",83,16

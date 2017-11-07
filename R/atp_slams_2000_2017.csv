@@ -1,0 +1,73 @@
+"year","tourney_name","round","winner_name","loser_name","winner_rank","loser_rank"
+2000,"Australian Open","F","Andre Agassi","Yevgeny Kafelnikov",1,2
+2000,"Roland Garros","F","Gustavo Kuerten","Magnus Norman",5,3
+2000,"Wimbledon","F","Pete Sampras","Patrick Rafter",3,21
+2000,"US Open","F","Marat Safin","Pete Sampras",7,4
+2001,"Australian Open","F","Andre Agassi","Arnaud Clement",6,18
+2001,"Roland Garros","F","Gustavo Kuerten","Alex Corretja",1,13
+2001,"Wimbledon","F","Goran Ivanisevic","Patrick Rafter",125,10
+2001,"US Open","F","Lleyton Hewitt","Pete Sampras",4,10
+2002,"Australian Open","F","Thomas Johansson","Marat Safin",18,11
+2002,"Roland Garros","F","Albert Costa","Juan Carlos Ferrero",22,11
+2002,"Wimbledon","F","Lleyton Hewitt","David Nalbandian",1,32
+2002,"US Open","F","Pete Sampras","Andre Agassi",17,6
+2003,"Australian Open","F","Andre Agassi","Rainer Schuettler",2,36
+2003,"Roland Garros","F","Juan Carlos Ferrero","Martin Verkerk",3,46
+2003,"Wimbledon","F","Roger Federer","Mark Philippoussis",5,48
+2003,"US Open","F","Andy Roddick","Juan Carlos Ferrero",4,3
+2004,"Australian Open","F","Roger Federer","Marat Safin",2,86
+2004,"Roland Garros","F","Gaston Gaudio","Guillermo Coria",44,3
+2004,"Wimbledon","F","Roger Federer","Andy Roddick",1,2
+2004,"US Open","F","Roger Federer","Lleyton Hewitt",1,5
+2005,"Australian Open","F","Marat Safin","Lleyton Hewitt",4,3
+2005,"Roland Garros","F","Rafael Nadal","Mariano Puerta",5,37
+2005,"Wimbledon","F","Roger Federer","Andy Roddick",1,4
+2005,"US Open","F","Roger Federer","Andre Agassi",1,7
+2006,"Australian Open","F","Roger Federer","Marcos Baghdatis",1,54
+2006,"Roland Garros","F","Rafael Nadal","Roger Federer",2,1
+2006,"Wimbledon","F","Roger Federer","Rafael Nadal",1,2
+2006,"US Open","F","Roger Federer","Andy Roddick",1,10
+2007,"Australian Open","F","Roger Federer","Fernando Gonzalez",1,9
+2007,"Roland Garros","F","Rafael Nadal","Roger Federer",2,1
+2007,"Wimbledon","F","Roger Federer","Rafael Nadal",1,2
+2007,"US Open","F","Roger Federer","Novak Djokovic",1,3
+2008,"Australian Open","F","Novak Djokovic","Jo Wilfried Tsonga",3,38
+2008,"Roland Garros","F","Rafael Nadal","Roger Federer",2,1
+2008,"Wimbledon","F","Rafael Nadal","Roger Federer",2,1
+2008,"US Open","F","Roger Federer","Andy Murray",2,6
+2009,"Australian Open","F","Rafael Nadal","Roger Federer",1,2
+2009,"Roland Garros","F","Roger Federer","Robin Soderling",2,25
+2009,"Wimbledon","F","Roger Federer","Andy Roddick",2,6
+2009,"US Open","F","Juan Martin Del Potro","Roger Federer",6,1
+2010,"Australian Open","F","Roger Federer","Andy Murray",1,4
+2010,"Roland Garros","F","Rafael Nadal","Robin Soderling",2,7
+2010,"Wimbledon","F","Rafael Nadal","Tomas Berdych",1,13
+2010,"US Open","F","Rafael Nadal","Novak Djokovic",1,3
+2011,"Australian Open","F","Novak Djokovic","Andy Murray",3,5
+2011,"Roland Garros","F","Rafael Nadal","Roger Federer",1,3
+2011,"Wimbledon","F","Novak Djokovic","Rafael Nadal",2,1
+2011,"US Open","F","Novak Djokovic","Rafael Nadal",1,2
+2012,"Australian Open","F","Novak Djokovic","Rafael Nadal",1,2
+2012,"Roland Garros","F","Rafael Nadal","Novak Djokovic",2,1
+2012,"Wimbledon","F","Roger Federer","Andy Murray",3,4
+2012,"US Open","F","Andy Murray","Novak Djokovic",4,2
+2013,"Australian Open","F","Novak Djokovic","Andy Murray",1,3
+2013,"Roland Garros","F","Rafael Nadal","David Ferrer",4,5
+2013,"Wimbledon","F","Andy Murray","Novak Djokovic",2,1
+2013,"US Open","F","Rafael Nadal","Novak Djokovic",2,1
+2014,"Australian Open","F","Stan Wawrinka","Rafael Nadal",8,1
+2014,"Roland Garros","F","Rafael Nadal","Novak Djokovic",1,2
+2014,"Wimbledon","F","Novak Djokovic","Roger Federer",2,4
+2014,"US Open","F","Marin Cilic","Kei Nishikori",16,11
+2015,"Australian Open","F","Novak Djokovic","Andy Murray",1,6
+2015,"Roland Garros","F","Stan Wawrinka","Novak Djokovic",9,1
+2015,"Wimbledon","F","Novak Djokovic","Roger Federer",1,2
+2015,"US Open","F","Novak Djokovic","Roger Federer",1,2
+2016,"Australian Open","F","Novak Djokovic","Andy Murray",1,2
+2016,"Roland Garros","F","Novak Djokovic","Andy Murray",1,2
+2016,"Wimbledon","F","Andy Murray","Milos Raonic",2,7
+2016,"Us Open","F","Stan Wawrinka","Novak Djokovic",3,1
+2017,"Australian Open","F","Roger Federer","Rafael Nadal",17,9
+2017,"Roland Garros","F","Rafael Nadal","Stan Wawrinka",4,3
+2017,"Wimbledon","F","Roger Federer","Marin Cilic",5,6
+2017,"Us Open","F","Rafael Nadal","Kevin Anderson",1,32
