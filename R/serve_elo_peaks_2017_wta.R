@@ -47,8 +47,8 @@ gg1 <- peak_elos %>%
 	ggplot(aes(y = serve.peak.elo, x = return.peak.elo)) + 
 	geom_point() + 
 	theme_gdocs() +
-	scale_y_continuous("Peak Serve Elo", lim = c(1450, 1700), breaks = scales::pretty_breaks(n = 10)) + 
-	scale_x_continuous("Peak Return Elo", lim = c(1400, 1600), breaks = scales::pretty_breaks(n = 10)) + 
+	#scale_y_continuous("Peak Serve Elo", lim = c(1450, 1700), breaks = scales::pretty_breaks(n = 10)) + 
+	#scale_x_continuous("Peak Return Elo", lim = c(1400, 1600), breaks = scales::pretty_breaks(n = 10)) + 
 	geom_hline(yintercept = median(peak_elos$serve.peak.elo)) + 
 	geom_vline(xintercept = median(peak_elos$return.peak.elo)) +
 	geom_text(aes(label = player))
