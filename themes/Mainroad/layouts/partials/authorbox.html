@@ -1,22 +1,40 @@
 {{- if .Site.Params.authorbox }}
 <div class="authorbox clearfix">
-	{{- if and (not .Site.Author.avatar) (not .Site.Author.name) (not .Site.Author.bio) }}
+	{{- if and (not .Site.Author.avatar1) (not .Site.Author.name1) (not .Site.Author.bio1) }}
 	<p class="authorbox__warning"><strong>WARNING:</strong> Authorbox is activated, but [Author] parameters are not specified.</p>
 	{{- end }}
-	{{- with .Site.Author.avatar }}
+	{{- with .Site.Author.avatar1 }}
 	<figure class="authorbox__avatar">
-		<img alt="{{ $.Site.Author.name }} avatar" src="{{ $.Site.Author.avatar | absURL }}" class="avatar" height="90" width="90">
+		<img alt="{{ $.Site.Author.name1 }} avatar" src="{{ $.Site.Author.avatar1 | absURL }}" class="avatar" height="90" width="90">
 	</figure>
 	{{- end }}
-	{{- with .Site.Author.name }}
+	{{- with .Site.Author.name1 }}
 	<div class="authorbox__header">
 		<span class="authorbox__name">About {{ . }}</span>
 	</div>
 	{{- end }}
-	{{- with .Site.Author.bio }}
+	{{- with .Site.Author.bio1 }}
 	<div class="authorbox__description">
 		{{ . }}
 	</div>
 	{{- end }}
+</div>
+<div class="authorbox clearfix">
+    {{- with .Site.Author.avatar2 }}
+    <figure class="authorbox__avatar">
+        <img alt="{{ $.Site.Author.name2 }} avatar" src="{{ $.Site.Author.avatar2 | absURL }}" class="avatar" height="90" width="90">
+            </figure>
+    {{- end }}
+    {{- with .Site.Author.name2 }}
+    <div class="authorbox__header">
+        <span class="authorbox__name">About {{ . }}</span>
+    </div>
+    {{- end }}
+    {{- with .Site.Author.bio2 }}
+    <div class="authorbox__description">
+        {{ . }}
+    </div>
+    {{- end }}
+    
 </div>
 {{- end }}

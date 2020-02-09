@@ -36,21 +36,167 @@ In addition to expanding the tournaments represented in the analysis, I was inte
 
 The data set I started with is shown below. All the counts are service games that come from many thousands of matches over the past 5 years for both the men's and women's tours. The first two columns of the ATP and WTA tables are the break point distributions before service games that the server lost, while the final two columns is the distribution for the return game prior to a service hold. We can see that that break point chances are more common for players who tend to hold service, indicating the effect of player quality. Also, we see that there is more than a 10% chance that 2 or more breaks occur. 
 
-|Break Point Chances   | ATP Misses  | Percentage | ATP Breaks | Percentage |WTA Misses  | Percentage | WTA Breaks  | Percentage |
-|:--:|:------:|:---:|:------:|:---:|:------:|:---:|:------:|:---:|
-|0  |15,407 |72% |56,973 |69% |7,207 |57% |12,240 |53% |
-|1  |3,396  |16% |14,233 |17% |2,995 |24% |6,308  |27% |
-|2  |1,719  |8%  |7,134  |9%  |1,557 |12% |2,993  |13% |
-|3  |707    |3%  |2,923  |4%  |568   |5%  |1,158  |5%  |
-|4  |204    |1%  |910    |1%  |198   |2%  |340    |1%  |
-|5  |56     |0%  |274    |0%  |65    |1%  |120    |1%  |
-|6  |19     |0%  |81     |0%  |19    |0%  |31     |0%  |
-|7  |6      |0%  |31     |0%  |3     |0%  |11     |0%  |
-|8  |2      |0%  |12     |0%  |1     |0%  |2      |0%  |
-|9  |0      |0%  |5      |0%  |0     |0%  |2      |0%  |
-|10|0|0%|0|0%|0|0%|0|0%|
-|11|0|0%|0|0% |0     |0%  |1      |0%  |
-|12 |0      |0%  |2      |0%  |0     |0%  |0      |0%  |
+
+<table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;'>
+<thead>
+<tr>
+<th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>Break Point Chances</th>
+<th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>ATP Misses</th>
+<th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>%</th>
+<th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>ATP Breaks</th>
+<th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>%</th>
+<th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>WTA Misses</th>
+<th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>%</th>
+<th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>WTA Breaks</th>
+<th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style='text-align: center;'>0</td>
+<td style='text-align: center;'>15407</td>
+<td style='text-align: center;'>72</td>
+<td style='text-align: center;'>56973</td>
+<td style='text-align: center;'>69</td>
+<td style='text-align: center;'>7207</td>
+<td style='text-align: center;'>57</td>
+<td style='text-align: center;'>12240</td>
+<td style='text-align: center;'>53</td>
+</tr>
+<tr style='background-color: #f7f7f7;'>
+<td style='background-color: #f7f7f7; text-align: center;'>1</td>
+<td style='background-color: #f7f7f7; text-align: center;'>3396</td>
+<td style='background-color: #f7f7f7; text-align: center;'>16</td>
+<td style='background-color: #f7f7f7; text-align: center;'>14233</td>
+<td style='background-color: #f7f7f7; text-align: center;'>17</td>
+<td style='background-color: #f7f7f7; text-align: center;'>2995</td>
+<td style='background-color: #f7f7f7; text-align: center;'>24</td>
+<td style='background-color: #f7f7f7; text-align: center;'>6308</td>
+<td style='background-color: #f7f7f7; text-align: center;'>27</td>
+</tr>
+<tr>
+<td style='text-align: center;'>2</td>
+<td style='text-align: center;'>1719</td>
+<td style='text-align: center;'>8</td>
+<td style='text-align: center;'>7134</td>
+<td style='text-align: center;'>9</td>
+<td style='text-align: center;'>1557</td>
+<td style='text-align: center;'>12</td>
+<td style='text-align: center;'>2993</td>
+<td style='text-align: center;'>13</td>
+</tr>
+<tr style='background-color: #f7f7f7;'>
+<td style='background-color: #f7f7f7; text-align: center;'>3</td>
+<td style='background-color: #f7f7f7; text-align: center;'>707</td>
+<td style='background-color: #f7f7f7; text-align: center;'>3</td>
+<td style='background-color: #f7f7f7; text-align: center;'>2923</td>
+<td style='background-color: #f7f7f7; text-align: center;'>4</td>
+<td style='background-color: #f7f7f7; text-align: center;'>568</td>
+<td style='background-color: #f7f7f7; text-align: center;'>5</td>
+<td style='background-color: #f7f7f7; text-align: center;'>1158</td>
+<td style='background-color: #f7f7f7; text-align: center;'>5</td>
+</tr>
+<tr>
+<td style='text-align: center;'>4</td>
+<td style='text-align: center;'>204</td>
+<td style='text-align: center;'>1</td>
+<td style='text-align: center;'>910</td>
+<td style='text-align: center;'>1</td>
+<td style='text-align: center;'>198</td>
+<td style='text-align: center;'>2</td>
+<td style='text-align: center;'>340</td>
+<td style='text-align: center;'>1</td>
+</tr>
+<tr style='background-color: #f7f7f7;'>
+<td style='background-color: #f7f7f7; text-align: center;'>5</td>
+<td style='background-color: #f7f7f7; text-align: center;'>56</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+<td style='background-color: #f7f7f7; text-align: center;'>274</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+<td style='background-color: #f7f7f7; text-align: center;'>65</td>
+<td style='background-color: #f7f7f7; text-align: center;'>1</td>
+<td style='background-color: #f7f7f7; text-align: center;'>120</td>
+<td style='background-color: #f7f7f7; text-align: center;'>1</td>
+</tr>
+<tr>
+<td style='text-align: center;'>6</td>
+<td style='text-align: center;'>19</td>
+<td style='text-align: center;'>0</td>
+<td style='text-align: center;'>81</td>
+<td style='text-align: center;'>0</td>
+<td style='text-align: center;'>19</td>
+<td style='text-align: center;'>0</td>
+<td style='text-align: center;'>31</td>
+<td style='text-align: center;'>0</td>
+</tr>
+<tr style='background-color: #f7f7f7;'>
+<td style='background-color: #f7f7f7; text-align: center;'>7</td>
+<td style='background-color: #f7f7f7; text-align: center;'>6</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+<td style='background-color: #f7f7f7; text-align: center;'>31</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+<td style='background-color: #f7f7f7; text-align: center;'>3</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+<td style='background-color: #f7f7f7; text-align: center;'>11</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+</tr>
+<tr>
+<td style='text-align: center;'>8</td>
+<td style='text-align: center;'>2</td>
+<td style='text-align: center;'>0</td>
+<td style='text-align: center;'>12</td>
+<td style='text-align: center;'>0</td>
+<td style='text-align: center;'>1</td>
+<td style='text-align: center;'>0</td>
+<td style='text-align: center;'>2</td>
+<td style='text-align: center;'>0</td>
+</tr>
+<tr style='background-color: #f7f7f7;'>
+<td style='background-color: #f7f7f7; text-align: center;'>9</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+<td style='background-color: #f7f7f7; text-align: center;'>5</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+<td style='background-color: #f7f7f7; text-align: center;'>2</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+</tr>
+<tr>
+<td style='text-align: center;'>10</td>
+<td style='text-align: center;'>0</td>
+<td style='text-align: center;'>0</td>
+<td style='text-align: center;'>0</td>
+<td style='text-align: center;'>0</td>
+<td style='text-align: center;'>0</td>
+<td style='text-align: center;'>0</td>
+<td style='text-align: center;'>0</td>
+<td style='text-align: center;'>0</td>
+</tr>
+<tr style='background-color: #f7f7f7;'>
+<td style='background-color: #f7f7f7; text-align: center;'>11</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+<td style='background-color: #f7f7f7; text-align: center;'>1</td>
+<td style='background-color: #f7f7f7; text-align: center;'>0</td>
+</tr>
+<tr>
+<td style='border-bottom: 2px solid grey; text-align: center;'>12</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>0</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>0</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>2</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>0</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>0</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>0</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>0</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>0</td>
+</tr>
+</tbody>
+</table>
 
 
 For the matching approach to testing myth 22, I first found all the games where a player had break point chances but did not end up converting (the "treatment" cases) and then found a matching return game for the same returner and match in which the player never had a break point opportunity (the "control" cases). Thus, every missed break got a comparable return game from the same match to serve as its control group.
