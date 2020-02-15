@@ -8,6 +8,13 @@ tags = ["tennis news", "stories",]
 
 Below is a selection of news features on my research.
 
+- Stephanie Kovalchik (25 Jun 2019), The Conversation: [How Ash Barty became the world's best female tennis player](https://theconversation.com/the-numbers-game-how-ash-barty-became-the-worlds-best-female-tennis-player-119381)
+
+- Dean Evans (01 Nov 2018). Intel UK [In Tennis, Big Data is Making a Grand Slam
+.](https://www.intel.co.uk/content/www/uk/en/it-management/cloud-analytic-hub/big-data-in-tennis.html)
+
+- Tennishead (23 Oct 2018). [Hardest, fastest. New player analysis](https://tennishead.net/hardest-fastest-new-player-analysis/)
+
 - Preethi Ramamoorthy (05 May 2017), The Hindu: [Tennis enters the matrix](http://www.thehindu.com/sport/tennis/tennis-enters-the-matrix/article18394346.ece)
 
 - Greg Garber (04 Feb 2017), ESPN: [Australian Open introduced new advanced statistical metrics](http://www.espn.com/tennis/story/_/id/18535448/australian-open-introduced-brand-new-advanced-statistical-metrics-game-insight-group)

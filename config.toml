@@ -1,31 +1,45 @@
 baseurl = "https://skoval.github.io/"
 title = "Stats On the T"
 languageCode = "en-us"
-paginate = "10" # Number of posts per page
+paginate = "5" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "on-the-t-com" # Enable comments by entering your Disqus shortname
 googleAnalytics = "UA-100138539-1" # Enable Google Analytics by entering your tracking id
 
+# suggestion from https://jdhao.github.io/2019/12/29/hugo_html_not_shown/
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [Author]
-    name1 = "Stephanie Kovalchik"
-    bio1 = "Blog Founder, Senior Data Scientist at the Game Insight Group at Tennis Australia, and researcher at the Institute for Health and Sport at Victoria University."
-    avatar1 = "img/IMG_0842.JPG"
+    name = "Stephanie Kovalchik"
+    bio = "Senior data scientist at Zelus Analytics, dedicated to using advanced stats to get more value out of performance analysis in elite sport."
+    avatar = "img/IMG_0842.JPG"
+
 
 [Params]
     subtitle = "Dedicated to data, statistics, and tennis" # Subtitle of your site
     description = "A blog that puts the numbers to tennis" # Description of your site
     opengraph = true
+    twitter_cards = false
     readmore = false # Show "Read more" button in list if true
-    leftsidebar = false # Move sidebar to the left side if true
     authorbox = true
     post_navigation = true
-    Imglogo = "img/logo.png"
+    post_meta = ["date", "categories"]
+    highlightColor = "#3bbb75"
+    customCSS = ["css/custom.css"]
 
+# Added JS scripts to baseof
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "ad", "recent"]
 
 [Params.widgets]
-    ad = true
-    search = true # Enable "Search" widget
-    recent_articles = true # Enable "Recent articles" widget
-    categories = true # Enable "Categories" widget
-    tags = true # Enable "Tags" widget
-        tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+  recent_num = 10 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)

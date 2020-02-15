@@ -1,0 +1,37 @@
+.logo-img{
+  display: inline;
+  float: right;
+  width: 20%;
+  margin-top: -2%;
+  margin-right: -10%;
+  padding: 0%;
+}
+
+img {
+  max-width: 50%;
+  max-height: 5%;
+}
+
+table {
+  margin-left: 10%;
+  max-width: 80%;
+}
+
+.gridwrapper {
+  display: grid;
+  margin-left: 10%;
+  margin-bottom: 10%;
+  grid-template-columns: 40% 40%;
+  grid-gap: 10px;
+  background-color: #fff;
+  color: #fff;
+}
+
+.gridbox {
+  text-align: center;
+  background-color: #3bbb75;
+  color: #fff;
+  border-radius: 5px;
+  padding: 25px;
+  font-size: 200%;
+}
