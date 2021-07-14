@@ -2,7 +2,7 @@
 comments: true
 date: 2017-03-17T00:00:00Z
 title: In Federer-Nadal Rivalry, Has the Federer Backhand Become a Weapon?
-url: /2017/03/17/Federer-Backhand-Trends/
+url: /2017/03/17/federer-backhand-trends/
 ---
 
 If tennis fans thought Roger Federer's Australian Open win over Rafael Nadal was a fluke in an otherwise lopsided head-to-head, Federer's devastating victory over Nadal this week at the Indian Wells Masters was a clear message that the AO won't be a one-off for his 2017 season. 

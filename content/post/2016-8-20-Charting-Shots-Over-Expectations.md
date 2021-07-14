@@ -2,7 +2,7 @@
 comments: true
 date: 2016-08-20T00:00:00Z
 title: Charting Shots Over Expectations
-url: /2016/08/20/Charting-Shots-Over-Expectations/
+url: /2016/08/20/charting-shots-over-expectations/
 ---
 
 In statistics, an _expectation_ is a way to quantify what is typical or likely. And, when we compare what _actually happened_ against what was expected, we have a way to judge how surprised or unimpressed we should be. 

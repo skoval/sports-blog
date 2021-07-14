@@ -4,7 +4,7 @@ date: 2017-10-13T00:00:00Z
 title: Measuring Match Fatigue
 categories: ['duration','fatigue',]
 tags: ['duration','fatigue',]
-url: /2017/10/13/Fatigue-Effects/
+url: /2017/10/13/fatigue-effects/
 thumbnail: "/img/raonic_retirement.png"
 ---
 

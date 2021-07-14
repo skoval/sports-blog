@@ -2,7 +2,7 @@
 comments: true
 date: 2017-01-26T00:00:00Z
 title: Rally Lengths are Down at the Australian Open
-url: /2017/01/26/AO2017-Rally-Lengths/
+url: /2017/01/26/ao2017-rally-lengths/
 ---
 
 With the prospect of a Rafael Nadal and Roger Federer final at this year's Australian Open, many are probably wondering if we are in store for the relatively speedy match when they last played here in 2014 or an epic more like their four-hour plus semifinal at the 2012 AO. There hasn't been much that is predictable about this year's Australian Open. One had to be clairvoyant to have picked a Nadal-Federer final (if that turns out to be what we get) let alone how long such a meeting could last.

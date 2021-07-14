@@ -2,7 +2,7 @@
 comments: true
 date: 2017-05-07T00:00:00Z
 title: Officials Are Human Too
-url: /2017/05/07/Official-Bias/
+url: /2017/05/07/official-bias/
 ---
 
 Every match win involves some luck. Whether it's the coin toss or the bounce off a clipped net, some events in a tennis match are outside of a player's control. And the sport accepts that. But we shouldn't accept it when it comes to line calls, especially when there is technology that can prevent line call errors.

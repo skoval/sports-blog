@@ -2,7 +2,7 @@
 comments: true
 date: 2017-01-29T00:00:00Z
 title: Most Improved Players at 2017 Australian Open
-url: /2017/01/29/AO2017-Most-Improved/
+url: /2017/01/29/ao2017-most-improved/
 ---
 
 Even with the men's final still to come, we can already say that the 2017 Australian Open brought more surprises than anyone expected. As much as we will be focused on the surprise of another Williams sister final and the 35th meeting of Roger Federer and Rafael Nadal, we shouldn't overlook the less familiar names that impressed us at the first Slam of the season. 

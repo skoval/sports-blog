@@ -4,7 +4,7 @@ date: 2017-06-03T00:00:00Z
 title: Rethinking Women's French Open Seedings
 categories: ['WTA', 'seeds', 'Elo',]
 tags: ['WTA', 'seeds', 'Elo',]
-url: /2017/06/03/Womens-Seeds-French-Open/
+url: /2017/06/03/womens-seeds-french-open/
 thumbnail: "img/simona_thumbnail.png"
 ---
 

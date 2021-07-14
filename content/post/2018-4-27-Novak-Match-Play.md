@@ -4,7 +4,7 @@ date: 2018-04-27T00:00:00Z
 title: Does Novak Just Need More Match Play?
 categories: ['novak','comeback',]
 tags:  ['novak','comeback',]
-url: /2018/04/27/Novak-Match-Play/
+url: /2018/04/27/novak-match-play/
 thumbnail: "/img/novak_barcelona.png"
 ---
 

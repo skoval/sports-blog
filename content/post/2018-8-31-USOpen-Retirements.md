@@ -4,7 +4,7 @@ date: 2018-08-31T00:00:00Z
 title: 2015 US Open Still The Most Brutal in Tennis History
 categories: ['weather','retirements',]
 tags:  ['weather','retirements',]
-url: /2018/08/31/US-Open-Retirements/
+url: /2018/08/31/us-open-retirements/
 thumbnail: "/img/djokovic_ice.png"
 ---
 

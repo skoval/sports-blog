@@ -2,7 +2,7 @@
 comments: true
 date: 2015-09-05T00:00:00Z
 title: WTA - Aging with Greatness
-url: /2015/09/05/WTA-Aging-With-Greatness/
+url: /2015/09/05/wta-aging-with-greatness/
 ---
 
 When Serena Williams turns 34 in a few weeks, she will very likely have added a 22nd Major title and [Calendar Slam](http://www.livetennis.com/category/livetennis-news/the-serena-calendar-slam-survives-an-american-scare-and-could-face-another-20150905-0009/) to her CV--securing her reign as the most decorated thirty-and-over in the sport. A decade ago, few would have believed that a tennis player in her mid-thirties would be at the peak of her game. There's no doubt that Williams' achievements and [resurgence at this stage](http://fivethirtyeight.com/features/serena-williams-and-the-difference-between-all-time-great-and-greatest-of-all-time/) in her career are exceptional. But, what might be less appreciated, is that Williams' is at the forefront of a wave of thirty-somethings who are at the top of their game.

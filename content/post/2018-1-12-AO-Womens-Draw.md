@@ -4,7 +4,7 @@ date: 2018-01-13T00:00:00Z
 title: Forecasting the Women's 2018 Australian Open
 categories: ['draw','luck',]
 tags:  ['draw','luck',]
-url: /2018/01/13/AO-Womens-Draw/
+url: /2018/01/13/ao-womens-draw/
 thumbnail: "/img/svitolina_brisbane.png"
 ---
 

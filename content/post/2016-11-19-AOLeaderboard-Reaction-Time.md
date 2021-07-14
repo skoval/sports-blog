@@ -2,7 +2,7 @@
 comments: true
 date: 2016-11-19T00:00:00Z
 title: AO Leaderboard - Reaction Time
-url: /2016/11/19/AOLeaderboard-Reaction-Time/
+url: /2016/11/19/aoleaderboard-reaction-time/
 ---
 
 In my last post I discussed the idea of _return pressure_ and suggested that it could be measured by looking at the amount of time a receiver gives the server to prepare for their second shot. Players who exert more pressure with their return of serve are expected to get a quicker jump on the ball and make a more powerful shot inside the baseline. 

@@ -4,7 +4,7 @@ date: 2018-04-01T00:00:00Z
 title: How the WTA Has Gotten More Competitive
 categories: ['premiers', 'depth',]
 tags:   ['premiers', 'depth',]
-url: /2018/04/01/WTA-Competitive/
+url: /2018/04/01/wta-competitive/
 thumbnail: "/img/sloan_stephens_miami.png"
 ---
 

@@ -2,7 +2,7 @@
 comments: false
 date: 2015-09-26T00:00:00Z
 title: Converting Clutch into Wins - A Pythagorean Model for Tennis
-url: /2015/09/26/Converting-Clutch-Into-Wins/
+url: /2015/09/26/converting-clutch-into-wins/
 ---
 
 In the short life of this blog, I have, on [several occasions](http://on-the-t.com/2015/09/19/Charting-Match-Charting/), complained about the lack of analytics in tennis. But what evidence is there to back up this view? One place to start to unpack the state of analytics in tennis is by comparison to other major sports that are at the forefront of the analytics revolution. In this article I want to discuss one gap that such a comparison reveals&mdash; the lack of metrics for win expectation.
@@ -15,7 +15,7 @@ In the short life of this blog, I have, on [several occasions](http://on-the-t.c
 Win prediction is often referred to as the "holy grail" in sports statistics. This was one of the first problems tackled by Bill James, the father of sabermetrics and catalyst of the _Moneyball_ sea change in baseball. A major contribution James made earlier in his career was to derive a simple formula to calculate a team's season win expectations based on a single measure of strength: runs scored. James presented his formula in the [1981 Baseball Abstract](http://baseballanalysts.com/archives/2004/08/abstracts_from_16.php). Sadly, I couldn't find an electronic version of that piece so I will reproduce the formula here:
 
 $$
-Win\% = RS^2/(RS^2 + RA^2)
+\mbox{Win\%} = \frac{RS^2}{(RS^2 + RA^2)}
 $$
 
 Here, $RS$ are a team's runs scored in a season, summed over all games, and $RA$ is the corresponding runs allowed, that is, the sum of runs their opponents earned against them in the same games. Because of the similarity of its form with the Pythagorean theorem, it has become known as the Pythagorean expectation for wins.
@@ -29,7 +29,7 @@ In a talk presented at NESSIS, I extend the Pythagorean formula to tennis. The m
 When 14 common performance measures were plugged into the following general form of the Pythagorean model, using ATP match data for 2004  to 2014 (over 50,000 matches),
 
 $$
-Win\% = X^\alpha/(X^\alpha + Y^\alpha)
+\mbox{Win\%} = \frac{X^\alpha}{(X^\alpha + Y^\alpha)}
 $$
 
 several were found to give a coefficient close to the Pythagorean coefficient of 2. Interestingly, all relate to return performance: break points won, break point opportunities, first and second return points won. (Note that some measures, like total return points won, are not considered here because they were very highly correlated with one or more of the other measures considered.)

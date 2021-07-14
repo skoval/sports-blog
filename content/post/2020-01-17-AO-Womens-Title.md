@@ -4,7 +4,7 @@ date: 2020-01-17T00:00:00Z
 title: Women's Title Chances for the 2020 Australian Open
 categories: ['grand slams',]
 tags:   ['grand slams',]
-url: /2020/01/17/Womens-AO-Title/
+url: /2020/01/17/womens-ao-title/
 thumbnail: "/img/serena_auckland_2020.png"
 ---
 

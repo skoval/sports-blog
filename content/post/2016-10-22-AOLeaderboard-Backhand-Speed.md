@@ -2,7 +2,7 @@
 comments: true
 date: 2016-10-22T00:00:00Z
 title: AO Leaderboard - Backhand Speeds
-url: /2016/10/22/AOLeaderboard-Backhand-Speed/
+url: /2016/10/22/aoleaderboard-backhand-speed/
 ---
 
 Hard to believe that it is only a few months before the start of the 2017 ATP and WTA seasons. Preparations for the 2017 AO in Melbourne are already in high gear. There will be a lot of developments you can expect to see come January, including some new stats using Hawk-Eye ball and player tracking data. These stats were developed by Tennis Australia's Game Insight Group&mdash; a team of scientists TA has brought together to advance the use of analytics in tennis. As a data scientist for the GIG, I wanted to preview these developments and some of the things we are learning from tracking data.

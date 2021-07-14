@@ -2,7 +2,7 @@
 comments: true
 date: 2017-04-01T00:00:00Z
 title: Clutch Leaders at 2017 Miami Open
-url: /2017/04/01/Miami-Open-Clutch-Leaders/
+url: /2017/04/01/miami-open-clutch-leaders/
 ---
 
 With all but the final round of the 2017 Miami Open decided, it's time to look back at some of the most impressive performances at the second Masters event of the season. Here, we measure _impressiveness_ by how clutch a player was throughout the event. 

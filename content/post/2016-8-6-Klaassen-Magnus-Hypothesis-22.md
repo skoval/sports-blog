@@ -2,7 +2,7 @@
 comments: true
 date: 2016-08-06T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 22
-url: /2016/08/06/Klaassen-Magnus-Hypothesis-22/
+url: /2016/08/06/klaassen-magnus-hypothesis-22/
 ---
 
 <img src="/assets/jsm2016logo4.png" style = "float:left; padding:2%;" />

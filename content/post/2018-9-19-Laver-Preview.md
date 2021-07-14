@@ -4,7 +4,7 @@ date: 2018-09-19T00:00:00Z
 title: Europe Readies to Defend Laver Cup Title
 categories: ['laver cup',]
 tags:  ['laver cup',]
-url: /2018/09/19/Laver-Cup-Preview/
+url: /2018/09/19/laver-cup-preview/
 thumbnail: "/img/laver_win_2017.png"
 ---
 

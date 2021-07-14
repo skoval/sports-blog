@@ -2,7 +2,7 @@
 comments: true
 date: 2016-09-01T00:00:00Z
 title: Importance Breakdown of Harrison's 2016 U.S. Open Upset of Milos Raonic
-url: /2016/09/01/US-Open-Harrison-Raonic-Review/
+url: /2016/09/01/us-open-harrison-raonic-review/
 ---
 
 On the first day of Round 2 of the 2016 U.S. Open, an American served up what could turn out to be one of the biggest upsets of the tournament. Ryan Harrison, ranked 220 in the world and known mostly for a [streak of unlucky draws](http://fivethirtyeight.com/datalab/at-wimbledon-ryan-harrison-suffers-again-from-his-bad-luck-of-the-draw/) at Grand Slams, defeated huge-hitting World No. 6 Milos Raonic 6-7 (4), 7-5, 7-5, 6-1. 

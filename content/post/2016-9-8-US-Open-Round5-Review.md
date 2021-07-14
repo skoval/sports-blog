@@ -2,7 +2,7 @@
 comments: true
 date: 2016-09-08T00:00:00Z
 title: Visualizations of Day 10 at the 2016 U.S. Open
-url: /2016/09/08/US-Open-Round5-Review/
+url: /2016/09/08/us-open-round5-review/
 ---
 
 Today wrapped up the last half of the men's and women's quarterfinals of the 2016 U.S. Open. Two of the favorites for the title&mdash;Serena Williams and Andy Murray&mdash;were on center stage. Serena Williams was tested by a determined Simona Halep but would eventually make it through. Andy Murray, on the other hand, would fall in 5 to Japanese No 1. Kei Nishikori. Here are visual summaries of how those and the two other quarterfinal matches of the day were decided. 

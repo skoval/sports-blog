@@ -2,7 +2,7 @@
 comments: true
 date: 2016-07-30T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 21
-url: /2016/07/30/Klaassen-Magnus-Hypothesis-21/
+url: /2016/07/30/klaassen-magnus-hypothesis-21/
 ---
 
 July has been a stellar month for British player [Johanna Konta](http://www.wtatennis.com/news/article/5755391/title/champions-corner-konta). After defeating one of her idols, Venus Williams, to win a Premier title at Stanford, Konta will play today for a spot in the semifinal of the Rogers Cup.

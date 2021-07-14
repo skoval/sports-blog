@@ -4,7 +4,7 @@ date: 2017-07-03T00:00:00Z
 title: Men's Serve and Return Grass Leaders
 categories: ['ATP', 'Wimbledon', 'leaders',]
 tags: ['ATP', 'Wimbledon', 'leaders',]
-url: /2017/07/03/Grass-Leaders/
+url: /2017/07/03/grass-leaders/
 thumbnail: "img/lopez_thumbnail.png"
 ---
 

@@ -4,7 +4,7 @@ date: 2018-10-14T00:00:00Z
 title: Djokovic and Bertens, Two of the Most Improved Players in 2018
 categories: ['elo','ratings',]
 tags:  ['elo','ratings',]
-url: /2018/10/14/Elo-Update/
+url: /2018/10/14/elo-update/
 thumbnail: "/img/djokovic_shanghai.png"
 ---
 

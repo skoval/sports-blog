@@ -4,7 +4,7 @@ date: 2018-02-19T00:00:00Z
 title: AO to AI Hackathon Winners Announced
 categories: ['hackathon', 'data science',]
 tags:  ['hackathon', 'data science',]
-url: /2018/02/19/AO-Hackathon/
+url: /2018/02/19/ao-hackathon/
 thumbnail: "/img/sobel.png"
 ---
 

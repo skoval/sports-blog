@@ -4,7 +4,7 @@ date: 2017-12-16T00:00:00Z
 title: Best Men's Surface Performances in 2017
 categories: ['serve', 'return', 'best','surface',]
 tags:  ['serve', 'return', 'best','surface',]
-url: /2017/12/16/Serve-Return-Surface-2017/
+url: /2017/12/16/serve-return-surface-2017/
 thumbnail: "/img/thiem_roland_garros.png"
 ---
 

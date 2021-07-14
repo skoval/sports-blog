@@ -4,7 +4,7 @@ date: 2018-05-06T00:00:00Z
 title: Sizing Up Surprising Head-to-Heads
 categories: ['head-to-head',]
 tags:  ['head-to-head',]
-url: /2018/05/06/Surprising-Head-To-Head/
+url: /2018/05/06/surprising-head-to-head/
 thumbnail: "/img/stefanos.png"
 ---
 

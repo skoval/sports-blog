@@ -4,7 +4,7 @@ date: 2017-06-11T00:00:00Z
 title: French Open ATP Leaders 
 categories: ['ATP', 'leaderboards', 'French Open',]
 tags: ['ATP', 'leaderboards', 'French Open',]
-url: /2017/06/11/French-Open-ATP-Leaders/
+url: /2017/06/11/french-open-atp-leaders/
 thumbnail: "img/wawrinka_thumbnail.png"
 ---
 

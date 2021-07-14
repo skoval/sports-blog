@@ -2,7 +2,7 @@
 comments: true
 date: 2016-05-14T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 11
-url: /2016/05/14/Klaassen-Magnus-Hypothesis-11/
+url: /2016/05/14/klaassen-magnus-hypothesis-11/
 ---
 
 After Novak Djokovic's surprising early exit last month at the Monte Carlo Masters tournament, this week it was Roger Federer's turn. His first clay court event since Monte Carlo was brought to a decisive halt when he lost to Dominic Thiem in the third round at the Rome Masters.

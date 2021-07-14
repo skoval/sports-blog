@@ -4,7 +4,7 @@ date: 2017-08-20T00:00:00Z
 title: Most Surprising Runs in Men's Open Era
 categories: ['surprising','next gen',]
 tags: ['surprising','next gen',]
-url: /2017/08/20/Most-Surprising-Runs/
+url: /2017/08/20/most-surprising-runs/
 thumbnail: "/img/shapovalov_thumbnail.png"
 ---
 

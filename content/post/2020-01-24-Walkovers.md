@@ -4,7 +4,7 @@ date: 2020-01-24T00:00:00Z
 title: Is an Early Walkover an Advantage in a Slam?
 categories: ['grand slams',]
 tags:   ['grand slams',]
-url: /2020/01/24/Slam-Walkover-Advantage/
+url: /2020/01/24/slam-walkover-advantage/
 thumbnail: "/img/tsitsipas_ao2020.png"
 ---
 

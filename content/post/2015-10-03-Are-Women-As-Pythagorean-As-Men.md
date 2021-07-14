@@ -2,7 +2,7 @@
 comments: false
 date: 2015-10-03T00:00:00Z
 title: Are Women as Pythagorean as Men in Tennis?
-url: /2015/10/03/Are-Women-As-Pythagorean-As-Men/
+url: /2015/10/03/are-women-as-pythagorean-as-men/
 ---
 
 [Last week](http://on-the-t.com/2015/09/26/Converting-Clutch-Into-Wins/), based on work presented at the [2015 NESSIS](http://www.nessis.org/), I wrote about an extension of Pythagorean Expectation to tennis, which showed that break point conversion has a strikingly similar ability to predict match wins in tennis as runs predict team wins in baseball. The Pythagorean analyses were based only on the men's tour. In this post, thanks to match statistics [published by Jeff Sackmann](https://twitter.com/tennisabstract/status/640558405208424448) of _Tennis Abstract_, I will examine the existence of a Pythagorean formula for women's tennis.

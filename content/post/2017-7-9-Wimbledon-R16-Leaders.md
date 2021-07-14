@@ -4,7 +4,7 @@ date: 2017-07-09T00:00:00Z
 title: Wimbledon R16 Leaders
 categories: ['Wimbledon', 'leaders',]
 tags: [ 'Wimbledon', 'leaders',]
-url: /2017/07/09/Wimbledon-R16-Leaders/
+url: /2017/07/09/wimbledon-r16-leaders/
 thumbnail: "img/rybarikova_thumbnail.png"
 ---
 

@@ -4,7 +4,7 @@ date: 2018-10-20T00:00:00Z
 title: Getting to the 2018 WTA Finals--An Elo Story 
 categories: ['elo','ratings',]
 tags:  ['elo','ratings',]
-url: /2018/10/20/WTA-Finals-2018/
+url: /2018/10/20/wta-finals-2018/
 thumbnail: "/img/wta_finals_2018.png"
 ---
 

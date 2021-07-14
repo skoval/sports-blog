@@ -2,7 +2,7 @@
 comments: true
 date: 2016-12-17T00:00:00Z
 title: AO Leaderboard - Serve Plus 1 Stroke
-url: /2016/12/17/AOLeaderboard-Forehand-Backhand-Serve1/
+url: /2016/12/17/aoleaderboard-forehand-backhand-serve1/
 ---
 
 One of the ways that the men's and women's games differ the most is the serve. While previous posts on this site have shown that the speeds of men's and women's groundstrokes are actually [fairly comparable](http://on-the-t.com/2016/11/26/AOLeaderboard-Forehand-Speed/), the men separate themselves by far on serve. On hard court, the average first serve for men is 115 mph and the average first serve for women is 99 mph.

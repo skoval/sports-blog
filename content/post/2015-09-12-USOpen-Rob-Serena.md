@@ -2,7 +2,7 @@
 comments: false
 date: 2015-09-12T00:00:00Z
 title: Did the US Open Rob Serena of a Calendar Slam?
-url: /2015/09/12/USOpen-Rob-Serena/
+url: /2015/09/12/usopen-rob-serena/
 ---
 
 

@@ -4,7 +4,7 @@ date: 2018-10-04T00:00:00Z
 title: Using Weekly Earnings Opportunity to Measure the Prize Money Gender Gap
 categories: ['gender',]
 tags:  ['gender',]
-url: /2018/10/04/Prize-Money-Opportunities/
+url: /2018/10/04/prize-money-opportunities/
 thumbnail: "/img/sabalenka.png"
 ---
 

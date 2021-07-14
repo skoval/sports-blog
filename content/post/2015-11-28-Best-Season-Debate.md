@@ -2,7 +2,7 @@
 comments: false
 date: 2015-11-28T00:00:00Z
 title: Another Take on the Best Season Debate
-url: /2015/11/28/Best-Season-Debate/
+url: /2015/11/28/best-season-debate/
 ---
 
 After solidifying a career best season with the win of the [ATP Tour Finals](http://www.atpworldtour.com/en/news/federer-djokovic-clash-for-london-finale-crown-2015), definitive World No. 1 Novak Djokovic set the [tennis world chattering](http://ftw.usatoday.com/2015/11/roger-federer-novak-djokovic-best-season-in-tennis-history-ever-2006-2015-john-mcenroe-rafael-nadal-grand-slams) about where his 2015 season stood in the history of best tennis seasons. It is fitting for these discussions that Djokovic's last win of 2015 was over Roger Federer, the current World No. 3 whose achievements in the mid 2000s have often been argued to be some of the greatest in the Open Era. 

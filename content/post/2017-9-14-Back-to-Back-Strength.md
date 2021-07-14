@@ -4,7 +4,7 @@ date: 2017-09-16T00:00:00Z
 title: Decline of Men's Slam Strength in 2017
 categories: ['grand slams', 'strength',]
 tags: ['grand slams', 'strength',]
-url: /2017/09/16/Slam-Strength-Decline/
+url: /2017/09/16/slam-strength-decline/
 thumbnail: "/img/us_open_mens_final.png"
 ---
 

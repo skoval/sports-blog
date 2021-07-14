@@ -2,7 +2,7 @@
 comments: true
 date: 2016-12-30T00:00:00Z
 title: AO Leaderboard - Women's Distances
-url: /2016/12/30/AOLeaderboard-Womens-Distances/
+url: /2016/12/30/aoleaderboard-womens-distances/
 ---
 
 In my [last post](http://on-the-t.com/2016/12/24/AOLeaderboard-Mens-Distances/), I took a look at the distances covered in matches and points for male players. The stats from Tennis Australia's Game Insight Group showed that men at the Australian Open travel 2 to 3 miles per match and the big servers of the game tend to travel the least of all players.

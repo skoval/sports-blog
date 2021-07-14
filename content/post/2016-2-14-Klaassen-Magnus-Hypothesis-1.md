@@ -2,7 +2,7 @@
 comments: true
 date: 2016-02-14T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 1
-url: /2016/02/14/Klaassen-Magnus-Hypothesis-1/
+url: /2016/02/14/klaassen-magnus-hypothesis-1/
 ---
 
 Books on tennis statistics are as rare as black swans. So I take notice whenever one appears. 

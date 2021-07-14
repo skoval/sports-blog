@@ -4,7 +4,7 @@ date: 2017-06-27T00:00:00Z
 title: Why Serena Williams Isn't the 700th Player By Any Measure
 categories: ['WTA', 'Serena Williams', 'gender bias']
 tags: ['WTA', 'Serena Williams', 'gender bias']
-url: /2017/06/27/Serena-Defense/
+url: /2017/06/27/serena-defense/
 thumbnail: "img/mcenroe.jpg"
 ---
 

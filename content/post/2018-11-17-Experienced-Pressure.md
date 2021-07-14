@@ -4,7 +4,7 @@ date: 2018-11-17T00:00:00Z
 title: Who Has Experienced the Most and Least Set Pressure this Season?
 categories: ['pressure','ratings',]
 tags:  ['pressure','ratings',]
-url: /2018/11/17/Experienced-Pressure/
+url: /2018/11/17/experienced-pressure/
 thumbnail: "/img/zverev_finals.png"
 ---
 

@@ -2,7 +2,7 @@
 comments: true
 date: 2016-04-19T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 7
-url: /2016/04/19/Klaassen-Magnus-Hypothesis-7/
+url: /2016/04/19/klaassen-magnus-hypothesis-7/
 ---
 
 With the second round exit of Novak Djokovic and the quarterfinal loss of Roger Federer, the finals of the 2016 Monte Carlo Masters brought us a pairing we might not have expected on Day 1, but a thrilling one nonetheless. The first two sets between Rafael Nadal and Gael Monfils on Sunday were [as tightly contested](http://www.tennis.com/pro-game/2016/04/nadal-overcomes-monfils-to-win-9th-monte-carlo-masters-title/58149/#.VxYZnoQ13xh) as the fans that withstood a rainy morning in Monaco could have hoped for. Each player exchanged a 7-5 win, battling through multiple long rallies and over two hours of matchplay to reach the third deciding set. 

@@ -4,7 +4,7 @@ date: 2017-10-06T00:00:00Z
 title: Assessing Scoreboard Effects
 categories: ['pressure','scoreboard',]
 tags: ['pressure','scoreboard',]
-url: /2017/10/06/Scoreboard-Effects/
+url: /2017/10/06/scoreboard-effects/
 thumbnail: "/img/pouille_thumbnail.png"
 ---
 

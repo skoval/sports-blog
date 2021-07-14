@@ -2,7 +2,7 @@
 comments: true
 date: 2015-09-04T00:00:00Z
 title: Retirements Aren't Only About Standing the Heat
-url: /2015/09/04/ATP-US-Open-2015-Retirements/
+url: /2015/09/04/atp-us-open-2015-retirements/
 ---
 
 Heat was the main topic of discussion on Day 4 of the US Open. The brutal effects of sweltering temperatures and stifling humidity took centerstage during the afternoon play when American Jack Sock collapsed in the third set of his match against Ruben Bemelmans. Sock--who looked unconscious as the medical team on site rushed to his aid--was forced to retire and was subsequently diagnosed with [heat illness](https://www.washingtonpost.com/news/early-lead/wp/2015/09/03/american-tennis-player-jack-sock-collapses-on-court-at-u-s-open/).

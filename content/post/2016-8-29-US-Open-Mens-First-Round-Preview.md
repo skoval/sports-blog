@@ -2,7 +2,7 @@
 comments: true
 date: 2016-08-29T00:00:00Z
 title: US Open Men's First Round Clutch Preview
-url: /2016/08/29/US-Open-Mens-First-Round-Preview/
+url: /2016/08/29/us-open-mens-first-round-preview/
 ---
 
 The first round of the main draw of the 2016 US Open begins today. If you are like me you have spent a good part of the weekend digesting the draw and making predictions about which matches could be the most interesting to come out of Flushing Meadows. In this post, I want to highlight a few of the matches that stood out to me. In doing so, I also want to introduce a new way of looking at recent form with something I call **clutch averaging**.

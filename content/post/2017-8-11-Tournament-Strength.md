@@ -4,7 +4,7 @@ date: 2017-08-11T00:00:00Z
 title: Sizing Up Tournament Strength and Depth
 categories: ['strength','depth',]
 tags: ['strength','depth',]
-url: /2017/08/11/Tournament-Strength/
+url: /2017/08/11/tournament-strength/
 thumbnail: "/img/murray_muscles.jpg"
 ---
 

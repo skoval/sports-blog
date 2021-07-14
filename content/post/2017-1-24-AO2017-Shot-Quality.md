@@ -2,7 +2,7 @@
 comments: true
 date: 2017-01-24T00:00:00Z
 title: AO 2017 Quarterfinalist Shot Quality
-url: /2017/01/24/AO2017-Shot-Quality/
+url: /2017/01/24/ao2017-shot-quality/
 ---
 
 The second week of a Major always reminds us what a high-level of shot making we are lucky to witness in the current era of tennis. Yet, even among the top players we know there is variation in the _quality of shot_. 

@@ -4,7 +4,7 @@ date: 2019-08-09T00:00:00Z
 title: A Stat for Must-See Matches
 categories: ['compeitiveness','ratings',]
 tags:   ['compeitiveness','ratings',]
-url: /2019/08/09/Must-See-Matches/
+url: /2019/08/09/must-see-matches/
 thumbnail: "/img/halep_rogers.png"
 ---
 

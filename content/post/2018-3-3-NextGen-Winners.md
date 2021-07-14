@@ -4,7 +4,7 @@ date: 2018-03-03T00:00:00Z
 title: Is Tiafoe's win in Delray Beach only the beginning?
 categories: ['next gen', 'breaking through',]
 tags:  ['next gen', 'breaking through',]
-url: /2018/03/03/Nextgen-Winnners/
+url: /2018/03/03/nextgen-winnners/
 thumbnail: "/img/tiafoe.png"
 ---
 

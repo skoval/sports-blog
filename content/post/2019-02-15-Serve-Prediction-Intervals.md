@@ -4,7 +4,7 @@ date: 2019-02-15T00:00:00Z
 title: Identifying Surprising Performances with Prediction Intervals
 categories: ['prediction','surprise',]
 tags:   ['prediction','surprise',]
-url: /2019/02/15/Serve-Prediction-Interval/
+url: /2019/02/15/serve-prediction-interval/
 thumbnail: "/img/serve_stock_photo.png"
 ---
 

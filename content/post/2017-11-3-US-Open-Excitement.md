@@ -4,7 +4,7 @@ date: 2017-11-03T00:00:00Z
 title: A Stat for Excitement and What It Reveals About the Best Men's Matches at the 2017 US Open
 categories: ['excitement', 'importance',]
 tags: ['excitement', 'importance',]
-url: /2017/11/03/US-Open-Excitement/
+url: /2017/11/03/us-open-excitement/
 thumbnail: "/img/delpo_usopen.png"
 ---
 

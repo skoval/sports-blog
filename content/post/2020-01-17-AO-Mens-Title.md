@@ -4,7 +4,7 @@ date: 2020-01-17T00:00:00Z
 title: Men's Title Chances for the 2020 Australian Open
 categories: ['grand slams',]
 tags:   ['grand slams',]
-url: /2020/01/17/Mens-AO-Title/
+url: /2020/01/17/mens-ao-title/
 thumbnail: "/img/tsitsipas_ao_2020.png"
 ---
 

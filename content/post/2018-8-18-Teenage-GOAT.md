@@ -4,7 +4,7 @@ date: 2018-08-18T00:00:00Z
 title: Who Is the Teen GOAT of Men's Tennis?
 categories: ['goat',]
 tags:  ['goat',]
-url: /2018/08/18/Teen-GOAT/
+url: /2018/08/18/teen-goat/
 thumbnail: "/img/nadal_2006.png"
 ---
 

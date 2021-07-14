@@ -2,7 +2,7 @@
 comments: true
 date: 2016-09-09T00:00:00Z
 title: Visualizations of Day 11 at the 2016 U.S. Open
-url: /2016/09/09/US-Open-Womens-Semifinal-Review/
+url: /2016/09/09/us-open-womens-semifinal-review/
 ---
 
 The shocks keep coming at the U.S. Open. After Kei Nishikori's surprising upset of Andy Murray in the quarterfinals of Day 10, Day 11 brought us another massive upset. Today it was Serena Williams' turn to exit the tournament, as Karolina Pliskova denied her a 23rd major title. After the loss to Roberta Vinci at the 2015 U.S. Open, this makes for back-to-back disappointments for Williams.

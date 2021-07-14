@@ -2,7 +2,7 @@
 comments: true
 date: 2017-04-06T00:00:00Z
 title: Is Federer's 2017 Season His Best Start Ever?
-url: /2017/04/06/Best-Starts/
+url: /2017/04/06/best-starts/
 ---
 
 After the first quarter of the 2017 season, Roger Federer has his 18th Grand Slam title and a 19-1 win record overall. Such an impressive start naturally leads us to ask: Where should we rank Federer's 2017 start against the other seasons of his career? How does it compare to the best season starts in tennis history?

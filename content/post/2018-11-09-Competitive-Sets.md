@@ -4,7 +4,7 @@ date: 2018-11-09T00:00:00Z
 title: Using Pressure Ratings to Rank Most Competitive Matches in 2018
 categories: ['pressure','ratings',]
 tags:  ['pressure','ratings',]
-url: /2018/11/09/Match-Pressure-ratings/
+url: /2018/11/09/match-pressure-ratings/
 thumbnail: "/img/federer_paris.png"
 ---
 

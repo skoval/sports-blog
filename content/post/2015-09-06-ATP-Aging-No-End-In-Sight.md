@@ -2,7 +2,7 @@
 comments: true
 date: 2015-09-06T00:00:00Z
 title: An Aging ATP - No End in Sight
-url: /2015/09/06/ATP-Aging-No-End-In-Sight/
+url: /2015/09/06/atp-aging-no-end-in-sight/
 ---
 
 With Donald Young's [stunning comeback](http://espn.go.com/tennis/usopen15/story/_/id/13592494/us-open-donald-young-continues-string-dramatic-comebacks-open) over Victor Troicki on Day 6 of the US Open, he became the youngest player to advance to the Round of 16--making 26 the new young in tennis. The average age of the 16 men still in contention for the title is 29.3 years and 5 of the 16 [Feliciano Lopez (34.0), Jo-Wilfried Tsonga (30.4), Stan Wawrinka (30.4), John Isner (30.4), Roger Federer (34.1)] are over thirty. 

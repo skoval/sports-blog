@@ -2,7 +2,7 @@
 comments: false
 date: 2015-09-10T00:00:00Z
 title: 10 Things You Won't Believe About IBM Insights!
-url: /2015/09/10/IBM-Insights/
+url: /2015/09/10/ibm-insights/
 ---
 
 At the 2015 US Open, IBM is continuing its long partnership with the USTA to bring tennis fans "[more than the score](http://www.usopen.org/en_US/ibmsports/index.html)". One of the main ways that Big Blue is going beyond the score is with their _Keys to the Match_--basically, a dashboard with performance targets for a given head-to-head. 

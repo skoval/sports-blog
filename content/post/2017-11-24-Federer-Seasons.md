@@ -4,7 +4,7 @@ date: 2017-11-23T00:00:00Z
 title: Sizing Up Federer's Seasons
 categories: ['seasons', 'best',]
 tags: ['seasons', 'best',]
-url: /2017/11/23/Federer-Seasons/
+url: /2017/11/23/federer-seasons/
 thumbnail: "/img/federer_tour_finals.png"
 ---
 

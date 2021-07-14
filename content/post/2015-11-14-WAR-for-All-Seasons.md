@@ -2,7 +2,7 @@
 comments: true
 date: 2015-11-14T00:00:00Z
 title: WAR for All Seasons
-url: /2015/11/14/WAR-for-All-Seasons/
+url: /2015/11/14/war-for-all-seasons/
 ---
 
 Last week I asked whether [WAR](http://on-the-t.com/2015/11/07/Developing-WAR-for-Tennis/), a comprehensive statistic of player value, has a place in tennis. Although [WAR was developed](http://www.baseball-reference.com/blog/archives/6063) for and has been primarily used in team sports to estimate a player's contribution to team wins, its potential applications are much broader. WAR, in its most general sense, is about giving perspective to a player's performance by comparing the outcomes of a player's outings to a common standard: the replacement player. 

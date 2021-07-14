@@ -2,7 +2,7 @@
 comments: true
 date: 2016-08-29T00:00:00Z
 title: US Open Women's First Round Clutch Preview
-url: /2016/08/29/US-Open-Womens-First-Round-Preview/
+url: /2016/08/29/us-open-womens-first-round-preview/
 ---
 
 This post continues on my first round preview for the 2016 US Open Championships. Having already taken a dip into the men's draw, let's now take a look at some of the most interesting of the women's matches in the days ahead. 

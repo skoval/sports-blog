@@ -4,7 +4,7 @@ date: 2017-08-19T00:00:00Z
 title: Match Dominance Among Next Gen
 categories: ['next gen','strength',]
 tags: ['next gen','strength',]
-url: /2017/08/19/Next-Gen-BP-Plus/
+url: /2017/08/19/next-gen-bp-plus/
 thumbnail: "/img/zverev_nextgen_thumbnail.png"
 ---
 

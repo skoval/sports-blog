@@ -2,7 +2,7 @@
 comments: true
 date: 2016-02-24T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 2
-url: /2016/02/24/Klaassen-Magnus-Hypothesis2/
+url: /2016/02/24/klaassen-magnus-hypothesis2/
 ---
 
 The second myth addressed in Klaassen and Magnus's instant classic of tennis analysis, [Analyzing Wimbledon](https://global.oup.com/academic/product/analyzing-wimbledon-9780199355952?cc=us&lang=en&#), is the myth of serving first in a match.

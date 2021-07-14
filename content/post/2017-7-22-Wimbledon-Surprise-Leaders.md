@@ -4,7 +4,7 @@ date: 2017-07-22T00:00:00Z
 title: Most Surprising at Wimbledon 2017
 categories: ['Grand Slams', 'leaders', 'surprise',]
 tags: ['Grand Slams', 'leaders', 'surprise',]
-url: /2017/07/22/Wimbledon-Surprise/
+url: /2017/07/22/wimbledon-surprise/
 thumbnail: "img/muguruza_wimbledon.png"
 ---
 

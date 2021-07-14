@@ -4,7 +4,7 @@ date: 2018-01-12T00:00:00Z
 title: Forecasting the Men's 2018 Australian Open
 categories: ['draw','luck',]
 tags:  ['draw','luck',]
-url: /2018/01/12/AO-Mens-Draw/
+url: /2018/01/12/ao-mens-draw/
 thumbnail: "/img/federer_ao.png"
 ---
 

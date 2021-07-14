@@ -4,7 +4,7 @@ date: 2019-01-21T00:00:00Z
 title: Do Numbers Back Up A Changing of the Guard at the 2019 Australian Open?
 categories: ['grand slams','age',]
 tags:   ['grand slams','age',]
-url: /2019/01/21/AO-Changing-Guard/
+url: /2019/01/21/ao-changing-guard/
 thumbnail: "/img/tsitsipas_ao.png"
 ---
 

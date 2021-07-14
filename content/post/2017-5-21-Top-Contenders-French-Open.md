@@ -2,7 +2,7 @@
 comments: true
 date: 2017-05-21T00:00:00Z
 title: Serve Leaders Among ATP's Top Contenders for French Open Title
-url: /2017/05/21/Top-Contenders-French-Open/
+url: /2017/05/21/top-contenders-french-open/
 ---
 
 Now that the dust has settled at the Rome Masters, the tennis world is turning its focus to the French Open, where main draw play is nearly upon us. With Roger Federer skipping Roland Garros when not injured for the first time since he first played the event in 1999, the four names that will be most in the discussion for the win are Rafael Nadal, Dominic Thiem, Novak Djokovic and Andy Murray. In this post, we look at the clay court season so far and what it tells us about the form for each of these top contenders going into the second Major of the year.

@@ -2,7 +2,7 @@
 comments: true
 date: 2016-06-25T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 16
-url: /2016/06/25/Klaassen-Magnus-Hypothesis-16/
+url: /2016/06/25/klaassen-magnus-hypothesis-16/
 ---
 
 Britain's decision to Brexit will inevitably make for an unusual backdrop at the 2016 Wimbledon, which gets underway this weekend. But with a packed draw and stadium roofs to combat uncooperative weather, we can still expect the next two weeks to bring us some unforgettable matches and headline worthy moments.

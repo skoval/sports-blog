@@ -2,7 +2,7 @@
 comments: true
 date: 2016-04-04T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 5
-url: /2016/04/04/Klaassen-Magnus-Hypothesis-5/
+url: /2016/04/04/klaassen-magnus-hypothesis-5/
 ---
 
 The 5th myth in Klaassen and Magnus's examination of some of the most common beliefs in tennis puts _point importance_ at center stage once again. With myth 5, K&M ask if there is any truth to the idea that _all points in tennis are equally important_. 

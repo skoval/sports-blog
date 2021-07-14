@@ -2,7 +2,7 @@
 comments: true
 date: 2017-01-28T00:00:00Z
 title: Nadal is More Predictable on Serve Under Pressure
-url: /2017/01/28/AO2017-Nadal-Serve-Predictability/
+url: /2017/01/28/ao2017-nadal-serve-predictability/
 ---
 
 We are looking forward to two classic finals in the men's and women's events at this year's Australian Open. The men's matchup will be the 35th meeting of Rafael Nadal and Roger Federer and their 22nd meeting in a tournament final. 

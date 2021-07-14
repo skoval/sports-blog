@@ -4,7 +4,7 @@ date: 2019-04-26T00:00:00Z
 title: Early Ups and Downs on Clay
 categories: ['clay','rating',]
 tags:   ['clay','rating',]
-url: /2019/04/26/Ups-Downs-Clay/
+url: /2019/04/26/ups-downs-clay/
 thumbnail: "/img/bencic_clay_may.png"
 ---
 

@@ -2,7 +2,7 @@
 comments: true
 date: 2017-03-25T00:00:00Z
 title: A How-To Guide for Tennis Rally Animation
-url: /2017/03/25/Rally-Animation/
+url: /2017/03/25/rally-animation/
 ---
 
 With modern tracking data, it is possible to get an almost continuous representation of the locations of both the ball and players during a tennis match. The richness of these data is a huge boon for tennis research but it comes with some challenges too. A lot of my time these days is spent thinking about how best to visualise this information. 

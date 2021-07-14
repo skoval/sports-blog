@@ -2,7 +2,7 @@
 comments: true
 date: 2015-11-02T00:00:00Z
 title: The Future of Tennis Data - A Conversation with Edoardo Salvati
-url: /2015/11/02/Conversation-With-Edoardo-Salvati/
+url: /2015/11/02/conversation-with-edoardo-salvati/
 ---
 
 Earlier this week, _FiveThirtyEight_ writer Oliver Roeder published an article entitled ["Can An Astrophysicist Change The Way We Watch Sports?"](http://fivethirtyeight.com/features/can-an-astrophysicist-change-the-way-we-watch-sports/) The piece documents the efforts of Matt Ginsberg (the astrophysicist in question) to develop a system for real-time predictions of shot-making for the NBA and, at the same time, raises a number of broad questions about the future of advanced analytics in sports and sports broadcasting. One of the questions that most intrigued me is whether, as the title of the article suggests, any _one_ person can "revolutionize" how we experience sports? 

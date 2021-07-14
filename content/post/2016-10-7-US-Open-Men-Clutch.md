@@ -2,7 +2,7 @@
 comments: true
 date: 2016-10-07T00:00:00Z
 title: Clutch Review of the ATP at the 2016 U.S. Open
-url: /2016/10/07/US-Open-Men-Clutch/
+url: /2016/10/07/us-open-men-clutch/
 ---
 
 My [previous post](http://on-the-t.com/2016/09/23/US-Open-Women-Clutch/) took us back to the U.S. Open and reviewed the most and least clutch players on the WTA. This week I do the same review for the men. As before, the clutch performance represented here is the summary of the most important points won on serve (Figure 1) and return (Figure 2). These summaries include big points like break points, of course, but also factors in other important points -- like tiebreak points or 30-all situations late in a set. In each case, the score situation is weighed by its relative importance, which is its expected influence on a win or loss. 

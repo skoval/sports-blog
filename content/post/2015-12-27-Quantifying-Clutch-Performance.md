@@ -2,7 +2,7 @@
 comments: true
 date: 2015-12-27T00:00:00Z
 title: Quantifying Clutch Performance
-url: /2015/12/27/Quantifying-Clutch-Performance/
+url: /2015/12/27/quantifying-clutch-performance/
 ---
 
 Just as some people are unusually good at finding the perfect gift to put under the Christmas tree, some tennis players are unusually good at pulling out a win when it matters most. This is the quintessential characteristic of the "clutch player". 

@@ -4,7 +4,7 @@ date: 2018-11-02T00:00:00Z
 title: Djokovic Regains No. 1 But His Climb in the Ratings Isn't Over
 categories: ['elo','ratings',]
 tags:  ['elo','ratings',]
-url: /2018/11/02/Djokovic-Improving-2018/
+url: /2018/11/02/djokovic-improving-2018/
 thumbnail: "/img/djokovic_2018_paris.png"
 ---
 

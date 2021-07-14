@@ -2,7 +2,7 @@
 comments: true
 date: 2015-10-24T00:00:00Z
 title: Break Points are More Decisive for WTA
-url: /2015/10/24/Breakpoints-More-Decisive-for-WTA/
+url: /2015/10/24/breakpoints-more-decisive-for-wta/
 ---
 
 Last week I [openly admitted](http://on-the-t.com/2015/10/17/How-Decisive-Are-Breakpoints/) to a new obsession with break points, which has lead me down a path of investigations to try to understand the role of break points for winning in tennis. One product to come out of this is the concept of break point _decisiveness_, which I define as the percentage of matches in which the winner also won more break points than the loser. My last post showed that break point decisiveness ranges from 87 to 91% for the ATP, depending on which surface and match format (best of 3 or best of 5) is being played. In this post, I turn to the WTA to see if break points have a similar link to wins as they do for ATP. 

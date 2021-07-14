@@ -2,7 +2,7 @@
 comments: true
 date: 2016-09-10T00:00:00Z
 title: Visualizations of Day 12 at the 2016 U.S. Open
-url: /2016/09/10/US-Open-Mens-Semifinal-Review/
+url: /2016/09/10/us-open-mens-semifinal-review/
 ---
 
 After a day of women's semifinals that saw the exit and dethroning of World No. 1 Serena Williams, the favorites in the men's semifinals had to be on guard when they stepped onto court today. The first match of the day pitted a fresh Novak Djokovic against showman and crowd favorite Gael Monfils. The day was be closed out by the matchup of Kei Nishikori and Stan Wawrinka. Both matches were hard-fought and delivered a packed highlight reel. It will now be left to Novak Djokovic and Stan Wawrinka on Sunday in Flushing to decide who will be the next men's U.S. Open champion. Here is how they earned a chance for the trophy.

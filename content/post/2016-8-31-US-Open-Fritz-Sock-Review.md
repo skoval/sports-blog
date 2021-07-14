@@ -2,7 +2,7 @@
 comments: true
 date: 2016-08-31T00:00:00Z
 title: Importance Breakdown of Fritz-Sock 2016 U.S. Open Match
-url: /2016/08/31/US-Open-Fritz-Sock-Review/
+url: /2016/08/31/us-open-fritz-sock-review/
 ---
 
 We have gotten through the first round and already the 2016 U.S. Open has given us a number of epics. One of those was the all-American matchup of Jack Sock and Taylor Fritz, a match that was highlighted in the clutch preview [on this blog](http://on-the-t.com/2016/08/29/US-Open-Mens-First-Round-Preview/).

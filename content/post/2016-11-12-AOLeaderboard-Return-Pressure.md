@@ -2,7 +2,7 @@
 comments: true
 date: 2016-11-12T00:00:00Z
 title: AO Leaderboard - Return Pressure
-url: /2016/11/12/AOLeaderboard-Return-Pressure/
+url: /2016/11/12/aoleaderboard-return-pressure/
 ---
 
 The tennis world is gearing up for the [ATP World Tour Finals](http://www.barclaysatpworldtourfinals.com/), where 8 of the best male players will vie for the final major title of 2016. One of the things that could be decisive in who advances to the semifinals is the _pressure_ of the return. Here, when I refer to _return pressure_, I am thinking of the kind of player who jumps on the serve and makes an attacking shot that gives the server little time to react. We all have a sense that some players do a better job at putting the pressure on even when in the defensive role, but we rarely see numbers that can help tell us who these players are.

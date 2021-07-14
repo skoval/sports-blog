@@ -2,7 +2,7 @@
 comments: false
 date: 2015-09-19T00:00:00Z
 title: Charting the Match Charting Project
-url: /2015/09/19/Charting-Match-Charting/
+url: /2015/09/19/charting-match-charting/
 ---
 
 With the existence of Hawkeye and the IBM Slamtracker, tennis fans might be under the impression that the CPUs of tennis analysts are overflowing with high-quality stroke-by-stroke data on today's matches. Regrettably, this is far from the truth. The data that drives the most interesting visualizations during a broadcasts, like summaries of the frequency of shots by their position on court, or the data behind the Challenge System are under the proprietary control of a few corporate giants (IBM for the Slams, SAP for the WTA), which means they are also out-of-reach of tennis researchers. 

@@ -2,7 +2,7 @@
 comments: true
 date: 2016-03-20T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 4
-url: /2016/03/20/Klaassen-Magnus-Hypothesis-4/
+url: /2016/03/20/klaassen-magnus-hypothesis-4/
 ---
 
 The fourth myth in the countdown of Klaassen and Magnus's 22 myths of tennis is _the myth of the seventh game_. Listen to enough tennis commentary or read through enough posts on tennis forums and you are bound to come across the idea that the seventh game is the most important game in the set. 

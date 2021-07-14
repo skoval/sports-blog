@@ -4,7 +4,7 @@ date: 2018-03-31T00:00:00Z
 title: Is the Changing of the Guard Coming?
 categories: ['masters', 'next gen',]
 tags:  ['masters', 'next gen',]
-url: /2018/03/31/Changing-Guard/
+url: /2018/03/31/changing-guard/
 thumbnail: "/img/borna_coric_miami.png"
 ---
 

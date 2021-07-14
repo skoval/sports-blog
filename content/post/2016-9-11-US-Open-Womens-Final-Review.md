@@ -2,7 +2,7 @@
 comments: true
 date: 2016-09-11T00:00:00Z
 title: Visualizations of Day 13 at the 2016 U.S. Open
-url: /2016/09/11/US-Open-Womens-Final-Review/
+url: /2016/09/11/us-open-womens-final-review/
 ---
 
 After three sets on a muggy Saturday in New York, Angelique Kerber defeated Karolina Pliskova to win her first U.S. Open Major and her second Grand Slam title of the year. Kerber had already secured the World No. 1 rank in getting to the finals, after Williams defeat to Pliskova in the semifinal. Pliskova was on a terrifying run, taking out both Williams sisters to get her spot in the final. While both women are still making themselves known to casual tennis fans, their performances at Flushing this weekend were an announcement to the world that we can expect to see them in more Major finals in years to come. 

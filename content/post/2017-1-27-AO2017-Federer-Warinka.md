@@ -2,7 +2,7 @@
 comments: true
 date: 2017-01-27T00:00:00Z
 title: Shot Quality Review of the Federer Wawrinka AO2017 Semifinal
-url: /2017/01/27/AO2017-Federer-Warinka/
+url: /2017/01/27/ao2017-federer-warinka/
 ---
 
 Last night, the first of the two men's semifinals was played on Rod Laver Arena. By the end of the second set, it looked like it was going to be a short night for the Australia Day crowd. Then Stan Wawrinka's first break in the fourth game of the third set changed everything.

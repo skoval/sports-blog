@@ -2,7 +2,7 @@
 comments: true
 date: 2017-05-22T00:00:00Z
 title: Return Leaders Among ATP's Top Contenders for French Open Title
-url: /2017/05/22/Top-Contenders-French-Open/
+url: /2017/05/22/top-contenders-french-open/
 ---
 
 Yesterday, I took a look at the clay-court serve performance of four of the ATP players most in contention for the 2017 Roland Garros title&mdash; Rafael Nadal, Dominic Thiem, Novak Djokovic and Andy Murray. [That analysis](http://on-the-t.com/2017/05/21/Top-Contenders-French-Open/) showed that Rafael Nadal has so far separated himself on serve by 5 to 15 percentage points on average. An impressive stat next to anyone but especially when compared to the players who are some of his toughest rivals for another Major win. 

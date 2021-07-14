@@ -4,7 +4,7 @@ date: 2019-01-13T00:00:00Z
 title: Predictions for the 2018 Australian Open Women's Draw
 categories: ['grand slams','predictions',]
 tags:   ['grand slams','predictions',]
-url: /2019/01/13/AO-Womens-Preview/
+url: /2019/01/13/ao-womens-preview/
 thumbnail: "/img/pliskova_ao_2019.png"
 ---
 

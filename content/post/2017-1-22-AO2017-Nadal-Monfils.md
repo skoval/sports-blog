@@ -2,7 +2,7 @@
 comments: true
 date: 2017-01-22T00:00:00Z
 title: AO 2017 Nadal Monfils R16
-url: /2017/01/22/AO2017-Nadal-Monfils/
+url: /2017/01/22/ao2017-nadal-monfils/
 ---
 
 As I write, Andy Murray and Mischa Zverev are battling for a place in the quarterfinals in what has the makings of an epic. Another match we all hope will deliver the same excitement is Rafael Nadal and Gael Monfils' meeting on Monday, in the marquee night match on Rod Laver Arena.

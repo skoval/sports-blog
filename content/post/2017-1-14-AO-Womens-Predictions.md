@@ -2,7 +2,7 @@
 comments: true
 date: 2017-01-14T00:00:00Z
 title: AO Women's Predictions
-url: /2017/01/14/AO-Womens-Predictions/
+url: /2017/01/14/ao-womens-predictions/
 ---
 
 With the release of the 2017 Australian Open draw yesterday, the tennis world will be spending the weekend mulling over the implications of where the seeds and dark horses of the event have landed. To help navigate these discussions, the Game Insight Group is breaking down the probabilities of the likely outcomes of the tournament, round by round. 

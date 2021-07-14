@@ -4,7 +4,7 @@ date: 2018-01-06T00:00:00Z
 title: Have Gruelling Schedules Caught Up With the Top of Men's Tennis?
 categories: ['game age', 'demand', 'scheduling',]
 tags:  ['game age', 'demand', 'scheduling',]
-url: /2018/01/06/Game-Age/
+url: /2018/01/06/game-age/
 thumbnail: "/img/murray_game_age_tumbnail.png"
 ---
 

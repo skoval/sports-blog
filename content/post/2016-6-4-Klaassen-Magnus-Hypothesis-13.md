@@ -2,7 +2,7 @@
 comments: true
 date: 2016-06-04T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 13
-url: /2016/06/04/Klaassen-Magnus-Hypothesis-13/
+url: /2016/06/04/klaassen-magnus-hypothesis-13/
 ---
 
 Zebra prints and back-to-back matches haven't been the only strange things to appear at this year's French Open. The washout that has been a catastrophe for the 2016 Roland Garros schedule has created a myriad of unusual pressures and demands for the players (and a few of them have been vocal about their dislike of the situation). As a consequence of all this, player adaptability and grit have taken higher places in the list of skills needed to advance to the next round than would be the case in drier conditions. 

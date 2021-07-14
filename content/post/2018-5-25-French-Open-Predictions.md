@@ -4,7 +4,7 @@ date: 2018-05-26T00:00:00Z
 title: French Open Predictions
 categories: ['clay','french open',]
 tags:  ['clay','french open',]
-url: /2018/05/26/French-Open-Predictions/
+url: /2018/05/26/french-open-predictions/
 thumbnail: "/img/zverev_head_shot.png"
 ---
 

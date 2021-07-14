@@ -2,7 +2,7 @@
 comments: true
 date: 2017-02-17T00:00:00Z
 title: Error Patterns with Elo Predictions
-url: /2017/02/17/Elo-Error/
+url: /2017/02/17/elo-error/
 ---
 
 Last week I began to take a [look at error patterns](http://on-the-t.com/2017/02/10/Elo-Court-Pace/) with tennis Elo predictions. The question of interest was how does serve advantage influence Elo performance?

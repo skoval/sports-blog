@@ -2,7 +2,7 @@
 comments: true
 date: 2016-12-10T00:00:00Z
 title: AO Leaderboard - Winning Rallies
-url: /2016/12/10/AOLeaderboard-Rally-Winners/
+url: /2016/12/10/aoleaderboard-rally-winners/
 ---
 
 When we think of the best ralliers in the game, we are thinking of the players who not only have a penchant for extended points but also win those points. While tournaments will sometimes tell us about typical rally lengths, we don't usually know how a player's chances of winning a point vary with rally length. In this post, I look into this question using Australian Open statistics provided by the Game Insight Group of Tennis Australia.

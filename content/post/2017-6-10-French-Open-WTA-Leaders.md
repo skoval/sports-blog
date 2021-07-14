@@ -4,7 +4,7 @@ date: 2017-06-10T00:00:00Z
 title: French Open WTA Leaders 
 categories: ['WTA', 'leaderboards', 'French Open',]
 tags: ['WTA', 'leaderboards', 'French Open',]
-url: /2017/06/10/French-Open-WTA-Leaders/
+url: /2017/06/10/french-open-wta-leaders/
 thumbnail: "img/ostapenko_thumbnail.png"
 ---
 

@@ -2,7 +2,7 @@
 comments: true
 date: 2016-08-18T00:00:00Z
 title: Charting Serve Locations
-url: /2016/08/18/Charting-Serve-Locations/
+url: /2016/08/18/charting-serve-locations/
 ---
 
 One of the many things I miss after the dissolution of Bill Simmons' sports blog [Grantland](https://en.wikipedia.org/wiki/Grantland) is Kirk Goldsberry's NBA shot charts. The classic version of the Goldsberry shot chart is a plot of hexagonal bins showing the locations and frequency of where a player takes shots overlaid onto a representation of the basketball court. Combined with heavy annotation and a lot of style, the charts are both effective at communicating shot tendencies and a pure pleasure to read (an example for Steph Curry is shown to the right). 

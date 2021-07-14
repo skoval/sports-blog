@@ -4,7 +4,7 @@ date: 2018-06-01T00:00:00Z
 title: Are Surface Specialists a Dying Breed?
 categories: ['clay','grass',]
 tags:  ['clay','grass',]
-url: /2018/06/01/Surface-Specialisation/
+url: /2018/06/01/surface-specialisation/
 thumbnail: "/img/french_surface.png"
 ---
 

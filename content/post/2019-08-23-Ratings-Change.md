@@ -4,7 +4,7 @@ date: 2019-08-23T00:00:00Z
 title: Who Has the Momentum Going into the US Open?
 categories: ['durations',]
 tags:   ['durations',]
-url: /2019/08/23/US-Open-Momentum/
+url: /2019/08/23/us-open-momentum/
 thumbnail: "/img/andreescu_rogers.png"
 ---
 

@@ -2,7 +2,7 @@
 comments: true
 date: 2016-09-03T00:00:00Z
 title: Visualizations of the First Day of Round 3 at the 2016 U.S. Open
-url: /2016/09/03/US-Open-Round3-Review/
+url: /2016/09/03/us-open-round3-review/
 ---
 
 We are nearing the end of the first day of Round 3 and the surprises continue. There were some big wins and near big losses for the players at Flushing today. In this post, I will look at the point-by-point predictions for 5 of the day's tightest matches. By looking over the charts of the match-in-progress can help us appreciate how a match was won and what some of the most shocking wins of the day were. 

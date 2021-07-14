@@ -2,7 +2,7 @@
 comments: true
 date: 2016-06-17T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 15
-url: /2016/06/17/Klaassen-Magnus-Hypothesis-15/
+url: /2016/06/17/klaassen-magnus-hypothesis-15/
 ---
 
 _Choking_ is one of the most fascinating phenomena in sport. 2016 provided us with a spectacular example of a choke when Jordan Spieth made a [quadruple-bogey](http://www.smh.com.au/sport/golf/us-masters-golf-2016-jordan-spieths-eye-fails-him-as-danny-willett-takes-the-green-jacket-20160411-go3dsn.html) on hole 12 of the Augusta Masters, setting into motion the loss of a near-certain win on the final day on those hallowed links. 

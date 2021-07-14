@@ -2,7 +2,7 @@
 comments: true
 date: 2017-01-18T00:00:00Z
 title: AO 2017 Day 2 Review In Four Match Charts
-url: /2017/01/18/AO-Day2-Charts/
+url: /2017/01/18/ao-day2-charts/
 ---
 
 There were fewer upsets and escapes on Day 2 of the 2017 Australian Open, but still plenty of excitement. Below you can find the point-by-point win prediction charts for four of the most exciting matches of the day. 

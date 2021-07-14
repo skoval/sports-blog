@@ -4,7 +4,7 @@ date: 2019-08-16T00:00:00Z
 title: Possible Effects of Abolishing First Service or Advantage Points
 categories: ['durations',]
 tags:   ['durations',]
-url: /2019/08/16/Abolishing-First-Serve/
+url: /2019/08/16/abolishing-first-serve/
 thumbnail: "/img/djokovic_duration_wimbledon.png"
 ---
 

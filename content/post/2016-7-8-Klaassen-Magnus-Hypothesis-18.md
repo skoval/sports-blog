@@ -2,7 +2,7 @@
 comments: true
 date: 2016-07-08T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 18
-url: /2016/07/08/Klaassen-Magnus-Hypothesis-18/
+url: /2016/07/08/klaassen-magnus-hypothesis-18/
 ---
 
 It's a sad day for Federer fans. After a glorious comeback from two sets down in the quarterfinals, Federer's bid for an eighth Wimbledon title was cut short by big-serving [Milos Raonic on Friday](http://www.tennis.com/pro-game/2016/07/milos-meets-his-moment/59432/#.V4Bzq4Q13yg). 

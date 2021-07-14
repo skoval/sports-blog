@@ -4,7 +4,7 @@ date: 2018-04-01T12:00:00Z
 title: The Evolution of Del Potro's Backhand
 categories: ['Del Potro', 'backhand', 'gaussian process',]
 tags:  ['Del Potro', 'backhand', 'gaussian process',]
-url: /2018/04/01/DelPotro-Backhand/
+url: /2018/04/01/delpotro-backhand/
 thumbnail: "/img/del_potro_bh.png"
 ---
 

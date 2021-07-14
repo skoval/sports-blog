@@ -4,7 +4,7 @@ date: 2018-06-08T00:00:00Z
 title: Does Interrupting a Match Impact the Outcome?
 categories: ['french open','suspended',]
 tags: ['french open','suspended',]
-url: /2018/06/08/Suspended-Impact/
+url: /2018/06/08/suspended-impact/
 thumbnail: "/img/nadal_french_suspended.png"
 ---
 

@@ -2,7 +2,7 @@
 comments: true
 date: 2015-10-17T00:00:00Z
 title: How Decisive are Break Points?
-url: /2015/10/17/How-Decisive-Are-Breakpoints/
+url: /2015/10/17/how-decisive-are-breakpoints/
 ---
 
 As part of the work I have been doing on the [Pythagorean model](http://on-the-t.com/2015/09/26/Converting-Clutch-Into-Wins/) for wins in tennis, I have&mdash;in-between MLB playoffs and the Shanghai Masters, in any case&mdash;been thinking a lot about break points lately.

@@ -2,7 +2,7 @@
 comments: true
 date: 2016-04-09T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 6
-url: /2016/04/09/Klaassen-Magnus-Hypothesis-6/
+url: /2016/04/09/klaassen-magnus-hypothesis-6/
 ---
 
 Raymond Moore's [display of sexism](http://www.espn.com.au/tennis/story/_/id/15039381/indian-wells-ceo-raymond-moore-resigns-remarks-drew-outrage) at this year's BNP Paribas Open put a more intense spotlight on gender equality in tennis than any of us were expecting. The processing of his statements and resignation as tournament director prompted some [insightful perspective-taking](http://nochallengesremaining.podbean.com/e/episode-148-forehands-and-backhands-sorta/) by former and current players. At the same time, it also encouraged more of the _same old_ pitting of the WTA and ATP tours against each other. 

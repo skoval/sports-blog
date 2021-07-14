@@ -4,7 +4,7 @@ date: 2018-05-10T00:00:00Z
 title: Puzzling Head-to-Heads in Women's Tennis History
 categories: ['head-to-head',]
 tags:  ['head-to-head',]
-url: /2018/05/10/Surprising-Head-To-Head-WTA/
+url: /2018/05/10/surprising-head-to-head-wta/
 thumbnail: "/img/suarez_navarro_madrid.png"
 ---
 

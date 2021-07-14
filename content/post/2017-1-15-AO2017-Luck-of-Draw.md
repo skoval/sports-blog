@@ -2,7 +2,7 @@
 comments: true
 date: 2017-01-15T00:00:00Z
 title: AO 2017 Luck of the Draw
-url: /2017/01/15/AO2017-Luck-of-Draw/
+url: /2017/01/15/ao2017-luck-of-draw/
 ---
 
 One of the curious things about tennis is that every seeded player's path to the title is different. When the champions are hoisting a tournament trophy over their heads, we largely ignore the role that luck might have played in their victory. But should it be ignored? And how much of a role does luck play anyway? 

@@ -2,7 +2,7 @@
 comments: true
 date: 2016-09-02T00:00:00Z
 title: Visualizations of the Final Day of Round 2 at the 2016 U.S. Open
-url: /2016/09/02/US-Open-Round2-Review/
+url: /2016/09/02/us-open-round2-review/
 ---
 
 The final day of Round 2 at the 2016 U.S. Open brought some more upsets and nail-biting battles. I have selected 6 of the most contested matches of the day and created point-by-point prediction charts to track the ebbs and flows of each. The expectations for each match are based on [player Elo ratings](http://projects.fivethirtyeight.com/2016-us-open-tennis-predictions/mens/). These ratings tells us how capable a player should be of winning a match against their drawn opponent if both players are playing to their expected ability. 

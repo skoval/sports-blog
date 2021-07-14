@@ -4,7 +4,7 @@ date: 2017-09-08T00:00:00Z
 title: What Were the Odds of an All-American Women's SF at the US Open? 
 categories: ['WTA', 'US Open',]
 tags: ['WTA', 'US Open',]
-url: /2017/09/08/All-American-SF-Odds/
+url: /2017/09/08/all-american-sf-odds/
 thumbnail: "/img/madison_thumbnail.png"
 ---
 

@@ -2,7 +2,7 @@
 comments: true
 date: 2017-04-14T00:00:00Z
 title: How Easily Can Sharapova Return to the Top of the Game?
-url: /2017/04/14/Sharapova-Return/
+url: /2017/04/14/sharapova-return/
 ---
 
 With less than 2 weeks until Maria Sharapova makes her return, there is a growing stir of speculation over her comeback. Having already been granted controversial wild cards and 3 Premier events, including the upcoming [Stuttgart Grand Prix](http://www.tennis.com/pro-game/2017/03/caroline-wozniacki-venus-williams-maria-sharapova-wildcard-stuttgart/64746/), Sharapova&mdash;after 15 months out of the game&mdash;will return to tennis with a unique opportunity to avoid the usual entry prohibitions of unranked players. Her first match will be in the middle of the first round of Stuttgart on April 26th where she will have a chance to take 470 ranking points. 

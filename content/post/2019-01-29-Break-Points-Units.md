@@ -4,7 +4,7 @@ date: 2019-01-29T00:00:00Z
 title: How to Best Quantify Service Pressure
 categories: ['pressure','clutch',]
 tags:   ['pressure','clutch',]
-url: /2019/01/29/Break-Point-Units/
+url: /2019/01/29/break-point-units/
 thumbnail: "/img/oasaka_ao_win.png"
 ---
 

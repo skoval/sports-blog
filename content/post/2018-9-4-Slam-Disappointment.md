@@ -4,7 +4,7 @@ date: 2018-09-04T00:00:00Z
 title: Zverev's US Open Loss Puts Him Among Top 20 Most Disappointing Major Performances So Far 
 categories: ['first slam',]
 tags:  ['first slam',]
-url: /2018/09/04/Slam-Disappointment/
+url: /2018/09/04/slam-disappointment/
 thumbnail: "/img/zverev_underperform.png"
 ---
 

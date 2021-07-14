@@ -4,7 +4,7 @@ date: 2017-10-27T00:00:00Z
 title: Shot Quality Maps
 categories: ['quality','prediction',]
 tags: ['quality','prediction',]
-url: /2017/10/27/Shot-Quality-Maps/
+url: /2017/10/27/shot-quality-maps/
 thumbnail: "/img/federer_shot_making.png"
 ---
 

@@ -4,7 +4,7 @@ date: 2017-09-30T00:00:00Z
 title: Women's Slam Strength Also Down in 2017
 categories: ['grand slams', 'strength',]
 tags: ['grand slams', 'strength',]
-url: /2017/09/30/Slam-Strength-WTA/
+url: /2017/09/30/slam-strength-wta/
 thumbnail: "/img/sloane_us_open.png"
 ---
 

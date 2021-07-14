@@ -4,7 +4,7 @@ date: 2019-09-06T00:00:00Z
 title: Ages at the US Open are Getting Bimodal, Again 
 categories: ['age',]
 tags:   ['age',]
-url: /2019/09/06/US-Open-Ages/
+url: /2019/09/06/us-open-ages/
 thumbnail: "/img/berrettini.png"
 ---
 

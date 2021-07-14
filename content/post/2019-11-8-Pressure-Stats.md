@@ -4,7 +4,7 @@ date: 2019-11-08T00:00:00Z
 title: Who Felt the Pressure the Most at the 2019 Grand Slams?
 categories: ['pressure',]
 tags:   ['pressure',]
-url: /2019/11/08/Pressure-Stats/
+url: /2019/11/08/pressure-stats/
 thumbnail: "/img/wawrinka-paris-2019.png"
 ---
 

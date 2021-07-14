@@ -4,7 +4,7 @@ date: 2019-03-22T00:00:00Z
 title: WTA Head-to-Head Effects
 categories: ['matchups','head-to-head',]
 tags:   ['matchups','head-to-head',]
-url: /2019/03/22/Head-to-Head-Effects-WTA/
+url: /2019/03/22/head-to-head-effects-wta/
 thumbnail: "/img/maria_serena_2.png"
 ---
 

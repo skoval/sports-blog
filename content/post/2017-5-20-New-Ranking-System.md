@@ -2,7 +2,7 @@
 comments: true
 date: 2017-05-20T00:00:00Z
 title: WTA Tennis Rankings Aren't Working
-url: /2017/05/20/New-Ranking-System/
+url: /2017/05/20/new-ranking-system/
 ---
 
 In her first match at the Rome Masters, World No. 1 Kerber was ousted by 	

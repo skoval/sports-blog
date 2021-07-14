@@ -2,7 +2,7 @@
 comments: true
 date: 2016-10-14T00:00:00Z
 title: Clutch Edge at the 2016 U.S. Open
-url: /2016/10/14/Clutch-Differentials/
+url: /2016/10/14/clutch-differentials/
 ---
 
 In the past few posts, I have been applying a new metric _clutch averages_ to the men's and women's singles matches at the 2016 U.S. Open. The purpose of these averages is to focus on how players tend to perform on the most important points in a match. In this way, these stats can help us to find out which players win the majority of the most important points? And which players are most and least affected by the scoreline?

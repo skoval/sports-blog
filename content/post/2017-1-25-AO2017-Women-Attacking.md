@@ -2,7 +2,7 @@
 comments: true
 date: 2017-01-25T00:00:00Z
 title: Attacking Play Wins Out at AO2017
-url: /2017/01/25/AO2017-Women-Attacking/
+url: /2017/01/25/ao2017-women-attacking/
 ---
 
 This year's Australian Open has turned many of the game's norms on its head. While the dust is still settling from the upsets of a number of the favorites in the first week, we are starting to see how some of the surprises for the title have been so successful. 

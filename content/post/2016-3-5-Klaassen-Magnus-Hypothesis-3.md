@@ -2,7 +2,7 @@
 comments: true
 date: 2016-03-05T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 3
-url: /2016/03/05/Klaassen-Magnus-Hypothesis-3/
+url: /2016/03/05/klaassen-magnus-hypothesis-3/
 ---
 
 The next myth in our look back at Klaassen and Magnus's takedown of 22 tennis myths is Myth 3. This myth concerns the importance of points and whether each point is equally important to the server and returner.

@@ -4,7 +4,7 @@ date: 2019-08-30T00:00:00Z
 title: Which Blockbuster Matches Might Be Ahead At The US Open?
 categories: ['must-see',]
 tags:   ['must-see',]
-url: /2019/08/30/US-Open-Blockbusters/
+url: /2019/08/30/us-open-blockbusters/
 thumbnail: "/img/medvedev-usopen-2019.png"
 ---
 

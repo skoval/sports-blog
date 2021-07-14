@@ -2,7 +2,7 @@
 comments: true
 date: 2017-02-25T00:00:00Z
 title: Does Including Futures and Challenger Events in Elo Improve Predictions?
-url: /2017/02/25/Elo-Error-Events/
+url: /2017/02/25/elo-error-events/
 ---
 
 With all of the tiers that exist on the professional tennis circuit, from 10K events up to the Majors, I've often wondered how tournament tiers should be factored into Elo predictions and whether some events should be excluded entirely. The standard Elo gives players a bigger boost (10% exactly) for wins at Majors but treats wins against similar opponents at any other event the same. 

@@ -2,7 +2,7 @@
 comments: true
 date: 2016-07-02T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 17
-url: /2016/07/02/Klaassen-Magnus-Hypothesis-17/
+url: /2016/07/02/klaassen-magnus-hypothesis-17/
 ---
 
 One of the matches we can look forward to&mdash;rain or shine&mdash;on Day 6 of the Wimbledon Championships is World No. 2 Andy Murray against Aussie John Millman. Murray's run at Wimbledon is an especially interesting one because it is the first Grand Slam since Murray's reunion with legend coach Ivan Lendl. The on-again off-again partnership provides an interesting natural experiment of the "coach effect" and gives us one more reason to look back at one of my favorite [tennis memes](https://twitter.com/coral/status/744527544590929920) of all time.

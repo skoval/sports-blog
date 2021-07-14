@@ -4,7 +4,7 @@ date: 2019-04-19T00:00:00Z
 title: Putting a Basic Playing Style Classifier to the Test
 categories: ['matchups','style',]
 tags:   ['matchups','style',]
-url: /2019/04/19/Testing-Match-Stats-And-Style/
+url: /2019/04/19/testing-match-stats-and-style/
 thumbnail: "/img/nishikori_montecarlo_2019.png"
 ---
 

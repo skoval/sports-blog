@@ -2,7 +2,7 @@
 comments: true
 date: 2017-04-29T00:00:00Z
 title: Are Net Points Murray's Kryptonite?
-url: /2017/04/29/Murray-Serve-Volley/
+url: /2017/04/29/murray-serve-volley/
 ---
 
 

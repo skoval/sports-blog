@@ -4,7 +4,7 @@ date: 2018-05-27T00:00:00Z
 title: What Patterns Can We Expect From Nadal at the French?
 categories: ['clay','french open',]
 tags:  ['clay','french open',]
-url: /2018/05/27/Nadal-Patterns/
+url: /2018/05/27/nadal-patterns/
 thumbnail: "/img/nadal_french_2018.png"
 ---
 

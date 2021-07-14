@@ -2,7 +2,7 @@
 comments: true
 date: 2016-09-05T00:00:00Z
 title: Visualizations of the First Day of Round 4 at the 2016 U.S. Open
-url: /2016/09/05/US-Open-Round4-Review/
+url: /2016/09/05/us-open-round4-review/
 ---
 
 Day 7, the last day of week 1 at the 2016 U.S. Open, saw the losses of two Americans (Keys and Sock), the upset of a favorite for the men's title (Nadal), and the resurgence of a former World No. 1 (Wozniacki). Below are the point-by-point win prediction charts for 4 of the most interesting wins in the first half of Round 4. 

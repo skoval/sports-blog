@@ -4,7 +4,7 @@ date: 2017-08-26T00:00:00Z
 title: Has Too Much Play Finally Caught Up with Top Men?
 categories: ['duration', 'gaps', 'US Open',]
 tags: ['duration', 'gaps', 'US Open',]
-url: /2017/08/26/Too-Much-Play/
+url: /2017/08/26/too-much-play/
 thumbnail: "/img/wawrinka_operation.png"
 ---
 

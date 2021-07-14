@@ -4,7 +4,7 @@ date: 2019-04-12T00:00:00Z
 title: More Exploration on Using Match Stats to Classify Playing Styles
 categories: ['matchups','style',]
 tags:   ['matchups','style',]
-url: /2019/04/12/Match-Stats-And-Style/
+url: /2019/04/12/match-stats-and-style/
 thumbnail: "/img/shapo_miami_2019.png"
 ---
 

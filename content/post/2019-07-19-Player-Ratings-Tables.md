@@ -4,7 +4,7 @@ date: 2019-07-19T00:00:00Z
 title: Player Ratings Tables Go Live!
 categories: ['singles', 'doubles','rating',]
 tags:   ['singles', 'doubles','rating',]
-url: /2019/07/19/Updating-Player-Ratings/
+url: /2019/07/19/updating-player-ratings/
 thumbnail: "/img/djokovic_celebrates.png"
 ---
 

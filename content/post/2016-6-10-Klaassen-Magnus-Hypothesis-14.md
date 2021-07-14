@@ -2,7 +2,7 @@
 comments: true
 date: 2016-06-10T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 14
-url: /2016/06/10/Klaassen-Magnus-Hypothesis-14/
+url: /2016/06/10/klaassen-magnus-hypothesis-14/
 ---
 
 Last weekend, when the sun finally shone down on Philippe Chatrier, we witnessed two very different but equally fascinating storylines emerge. On the women's side, twenty-two year old Garbiñe Muguruza, a rising star with only one previous appearance in a Grand Slam final, thwarted Serena Williams' third bid at her twenty-second title to her first major win. 

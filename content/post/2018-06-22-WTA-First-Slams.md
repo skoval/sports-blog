@@ -4,7 +4,7 @@ date: 2018-06-22T00:00:00Z
 title: Top WTA Prospects for a First Slam at Wimbledon
 categories: ['wimbledon','first slam',]
 tags: ['wimbledon','first slam',]
-url: /2018/06/22/WTA-First-Slam/
+url: /2018/06/22/wta-first-slam/
 thumbnail: "/img/svitolina_grass.png"
 ---
 

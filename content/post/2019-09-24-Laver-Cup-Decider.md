@@ -4,7 +4,7 @@ date: 2019-09-24T00:00:00Z
 title: A Short Explainer on Getting to a Laver Cup Decider
 categories: ['laver cup',]
 tags:   ['laver cup',]
-url: /2019/09/24/Laver-Cup-Decider/
+url: /2019/09/24/laver-cup-decider/
 thumbnail: "/img/laver_2019.png"
 ---
 

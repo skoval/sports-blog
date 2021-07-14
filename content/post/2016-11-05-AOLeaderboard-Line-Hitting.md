@@ -2,7 +2,7 @@
 comments: true
 date: 2016-11-05T00:00:00Z
 title: AO Leaderboard - Net Clearance
-url: /2016/11/05/AOLeaderboard-Line-Hitting/
+url: /2016/11/05/aoleaderboard-line-hitting/
 ---
 
 The Masters in Bercy continues concerns over Novak Djokovic's form going into the Tour Finals. With the loss to Marin Cilic in Paris and Andy Murray one win away from taking the World No. 1 spot, the 2016 season has raised many questions about Djokovic's performance. While we see the indicators of a slump from his win record, we can't know whether and how his game has actually changed&mdash; has he lost effectiveness on serve? or the forehand? in his shot accuracy off? 

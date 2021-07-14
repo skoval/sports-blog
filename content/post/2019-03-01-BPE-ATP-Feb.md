@@ -4,7 +4,7 @@ date: 2019-03-01T00:00:00Z
 title: Men's Top Pressure Performances in February
 categories: ['big points','pressure',]
 tags:   ['big points','pressure',]
-url: /2019/03/01/ATP-BPE-Feb/
+url: /2019/03/01/atp-bpe-feb/
 thumbnail: "/img/opelka_newyork.png"
 ---
 

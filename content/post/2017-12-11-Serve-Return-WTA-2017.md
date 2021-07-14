@@ -4,7 +4,7 @@ date: 2017-12-09T00:00:00Z
 title: Best WTA Servers and Returners of 2017
 categories: ['serve', 'return', 'best',]
 tags:  ['serve', 'return', 'best',]
-url: /2017/12/09/Serve-Return-WTA-2017/
+url: /2017/12/09/serve-return-wta-2017/
 thumbnail: "/img/venus_singapore_finals.png"
 ---
 

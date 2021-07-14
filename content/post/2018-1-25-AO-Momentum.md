@@ -4,7 +4,7 @@ date: 2018-01-25T00:00:00Z
 title: Is Slam Momentum a Thing?
 categories: ['momentum',]
 tags:  ['momentum',]
-url: /2018/01/25/Slam-Momentum/
+url: /2018/01/25/slam-momentum/
 thumbnail: "/img/chung.png"
 ---
 

@@ -4,7 +4,7 @@ date: 2018-04-07T00:00:00Z
 title: Clutch Stats from the Sunshine Masters
 categories: ['masters', 'cutch',]
 tags:  ['masters', 'cutch',]
-url: /2018/04/07/Sunshine-Masters-Clutch/
+url: /2018/04/07/sunshine-masters-clutch/
 thumbnail: "/img/osaka_indian_wells.png"
 ---
 

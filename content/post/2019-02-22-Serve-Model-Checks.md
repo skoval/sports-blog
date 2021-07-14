@@ -4,7 +4,7 @@ date: 2019-02-22T00:00:00Z
 title: Assessing the Fit of a Serve Prediction Model 
 categories: ['prediction','serve',]
 tags:   ['prediction','serve',]
-url: /2019/02/22/Serve-Model-Check/
+url: /2019/02/22/serve-model-check/
 thumbnail: "/img/kerber_serving.png"
 ---
 

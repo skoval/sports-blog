@@ -4,7 +4,7 @@ date: 2018-06-04T00:00:00Z
 title: Previewing the 22nd Match of Maria and Serena - Will History Repeat Itself?
 categories: ['serena','head-to-heads',]
 tags:  ['serena','head-to-heads',]
-url: /2018/06/04/Maria-Serena/
+url: /2018/06/04/maria-serena/
 thumbnail: "/img/maria_serena.png"
 ---
 

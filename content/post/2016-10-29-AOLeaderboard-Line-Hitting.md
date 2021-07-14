@@ -2,7 +2,7 @@
 comments: true
 date: 2016-10-29T00:00:00Z
 title: AO Leaderboard - Line Hitting
-url: /2016/10/29/AOLeaderboard-Line-Hitting/
+url: /2016/10/29/aoleaderboard-line-hitting/
 ---
 
 This week continues the rollout of a collection of new statistics describing the quality of shots in tennis. Last week began with a look at groundstroke speeds, focusing on the backhand. This week we turn to the accuracy of groundstrokes and look specifically at how frequently shots land close to the line. 

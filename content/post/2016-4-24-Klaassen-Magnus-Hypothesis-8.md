@@ -2,7 +2,7 @@
 comments: true
 date: 2016-04-24T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 8
-url: /2016/04/24/Klaassen-Magnus-Hypothesis-8/
+url: /2016/04/24/klaassen-magnus-hypothesis-8/
 ---
 
 The break-heavy clay court season continued in the men's semifinal match where World No. 5 Rafael Nadal faced-off against 31st-ranked Fabio Fognini. There were a total of 8 breaks in the match, 4 in each set. There were also two of the most frustrating of break phenomena, the back-to-back break. The first came in the fifth game of the first set, when Fognini broke Nadal's serve and put himself on the scoreboard for the first time. The second came in the second set, when Fognini once again broke back after losing his first service game. 

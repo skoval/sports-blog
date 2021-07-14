@@ -4,7 +4,7 @@ date: 2018-08-26T00:00:00Z
 title: Plus-Minus Statistics for Tennis
 categories: ['goat',]
 tags:  ['goat',]
-url: /2018/08/26/Plus-Minus/
+url: /2018/08/26/plus-minus/
 thumbnail: "/img/halep_western_southern.png"
 ---
 

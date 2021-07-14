@@ -4,7 +4,7 @@ date: 2018-04-25T00:00:00Z
 title: In His Return, Nadal is Making Every Minute Count
 categories: ['clay', 'nadal',]
 tags:  ['clay', 'nadal',]
-url: /2018/04/25/Nadal-Clay-Dominance/
+url: /2018/04/25/nadal-clay-dominance/
 thumbnail: "/img/nadal_monte_carlo_2018.png"
 ---
 

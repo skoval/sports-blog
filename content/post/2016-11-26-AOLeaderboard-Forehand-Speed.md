@@ -2,7 +2,7 @@
 comments: true
 date: 2016-11-26T00:00:00Z
 title: AO Leaderboard - Forehand Speeds
-url: /2016/11/26/AOLeaderboard-Forehand-Speed/
+url: /2016/11/26/aoleaderboard-forehand-speed/
 ---
 
 This week's Australian Open Leaderboard series returns to groundstroke speeds. Below, are charts showing speed at impact (in mph) for groundstroke forehands (shots landing within 3 meters of the baseline) observed at the 2014 to 2016 AO. 

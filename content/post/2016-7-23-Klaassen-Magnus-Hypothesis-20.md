@@ -2,7 +2,7 @@
 comments: true
 date: 2016-07-23T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 20
-url: /2016/07/23/Klaassen-Magnus-Hypothesis-20/
+url: /2016/07/23/klaassen-magnus-hypothesis-20/
 ---
 
 As we near the end of our look back at the 22 tennis myths of Klaassen and Magnus, we find less novelty in the ideas. Rather than spend too much time covering old ground, I'll try to keep things interesting by looking at each topic in a new way.

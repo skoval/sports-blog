@@ -2,7 +2,7 @@
 comments: true
 date: 2017-04-21T00:00:00Z
 title: Can Serena Williams be a Champion and Mom?
-url: /2017/04/21/Serena-Return/
+url: /2017/04/21/serena-return/
 ---
 
 The tennis world is abuzz with speculation over the future of Serena Williams. In an already extraordinary week in which the 23 Grand Slam title-owning champion was projected to reclaim the World No. 1 without having played an event since this year's Australian Open, Williams, in a [cheeky snapchat post](http://www.telegraph.co.uk/tennis/2017/04/19/serena-williams-reveals-20-weeks-pregnant/), announced that she was expecting. 

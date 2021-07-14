@@ -4,7 +4,7 @@ date: 2018-02-02T00:00:00Z
 title: Slam Seeding - Is 16 Better than 32?
 categories: ['seeding', 'draw',]
 tags:  ['seeding', 'draw',]
-url: /2018/02/02/Slam-Seeding-Changes/
+url: /2018/02/02/slam-seeding-changes/
 thumbnail: '/img/GSBpressrelease.jpg'
 ---
 

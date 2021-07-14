@@ -4,7 +4,7 @@ date: 2019-04-05T00:00:00Z
 title: What Can Match Stats Tell Us About Playing Styles?
 categories: ['matchups','style',]
 tags:   ['matchups','style',]
-url: /2019/04/05/Match-Stats-And-Style/
+url: /2019/04/05/match-stats-and-style/
 thumbnail: "/img/isner_federer_miami.png"
 ---
 

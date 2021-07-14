@@ -2,7 +2,7 @@
 comments: true
 date: 2016-09-12T00:00:00Z
 title: Visualizations of Day 14 at the 2016 U.S. Open
-url: /2016/09/12/US-Open-Mens-Final-Review/
+url: /2016/09/12/us-open-mens-final-review/
 ---
 
 The final day of the 2016 U.S. Open brought us the [26th meeting](http://www.stevegtennis.com/head-to-head/men/Novak_Djokovic/Stanislas_Wawrinka/) of Novak Djokovic and Stan Wawrinka. Djokovic has built up such a win record in recent years that, even at the final stage of a Grand Slam against as formidable an opponent as World No. 3 Stan Wawrinka, he was still the favorite by far. [FiveThirtyEight predictions](http://projects.fivethirtyeight.com/2016-us-open-tennis-predictions/mens/) gave the World No. 1 an 88% chance of winning his 13th Major title. As imbalanced a final as that suggests, Djokovic's win record against Wawrinka backed up those odds: going into the final, Djokovic won 21 of their professional meetings since 2004 and 11 of 13 of their meetings since Djokovic's inhuman year in 2011. 

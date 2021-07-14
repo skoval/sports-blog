@@ -2,7 +2,7 @@
 comments: true
 date: 2017-01-07T00:00:00Z
 title: AO Leaderboard - Work
-url: /2017/01/07/AOLeaderboard-Work/
+url: /2017/01/07/aoleaderboard-work/
 ---
 
 The first week of the 2017 tennis season saw the debut of many of the world's best players. One of the players that tennis fans will be expecting the most from is the recently [knighted Sir Andy Murray](http://www.news.com.au/sport/tennis/british-tennis-star-andy-murray-knighted-after-amazing-season/news-story/6191b34118355421ef96820aa18c2bdc). Not just because of the knighthood but because of last year's miraculous season that propelled that honour and saw Murray do the impossible: take the World No. 1 ranking from Novak Djokovic.

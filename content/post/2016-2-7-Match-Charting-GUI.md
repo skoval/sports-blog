@@ -2,7 +2,7 @@
 comments: true
 date: 2016-02-07T00:00:00Z
 title: Introducing a GUI for the Match Charting Project
-url: /2016/02/07/Match-Charting-GUI/
+url: /2016/02/07/match-charting-gui/
 ---
 
 We are just a little more than a month into the 2016 tennis season. With 10 months of matches, 3 Grand Slams, and the Rio Olympics ahead of us; there is plenty to look forward to. 

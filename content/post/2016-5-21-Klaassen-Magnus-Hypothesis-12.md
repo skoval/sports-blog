@@ -2,7 +2,7 @@
 comments: true
 date: 2016-05-21T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 12
-url: /2016/05/21/Klaassen-Magnus-Hypothesis-12/
+url: /2016/05/21/klaassen-magnus-hypothesis-12/
 ---
 
 In this week's [Beyond the Baseline](http://www.si.com/si-beyond-the-baseline-tennis-podcast) preview to the French Open, Jon Wertheim called the women's draw from spot 2 down "all over the place". With only 2 2016 clay court titles among the top 4 seeds on the women's side and Serena Williams without a major title since last year's Wimbledon, it's looking like anyone's guess over which WTA player will walk away with the Roland Garros title in two weeks. 

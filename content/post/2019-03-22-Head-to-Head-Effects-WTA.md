@@ -4,7 +4,7 @@ date: 2019-03-29T00:00:00Z
 title: Top Pressure Performances in March
 categories: ['pressure',]
 tags:   ['pressure',]
-url: /2019/03/29/Top-Pressure-Performances/
+url: /2019/03/29/top-pressure-performances/
 thumbnail: "/img/andreescu.png"
 ---
 

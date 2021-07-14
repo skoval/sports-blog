@@ -2,7 +2,7 @@
 comments: true
 date: 2017-05-27T00:00:00Z
 title: Clay Court Performance Trends of French Open Title Men's Top 4
-url: /2017/05/27/Mens-Clay-Trends/
+url: /2017/05/27/mens-clay-trends/
 ---
 
 The French Open draw is out and Round 1 is only hours away. Four of the names that will be watched closely on the men's side are 9-time champion Rafael Nadal, defending champion Novak Djokovic, defending finalist Andy Murray, and aspiring title-contender Dominic Thiem. 

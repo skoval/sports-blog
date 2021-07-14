@@ -2,7 +2,7 @@
 comments: true
 date: 2015-11-07T00:00:00Z
 title: Initial Thoughts on Developing WAR for Tennis
-url: /2015/11/07/Developing-WAR-for-Tennis/
+url: /2015/11/07/developing-war-for-tennis/
 ---
 
 If, based on the title of this post, you were expecting some kind of jingoistic fantasy of tennis players armed with bazookas, you were mistaken. This post isn't about that kind of war (as much as _ESPN_ might be interested in such a gladiatorial venture); it's about the sabermetric kind of WAR.

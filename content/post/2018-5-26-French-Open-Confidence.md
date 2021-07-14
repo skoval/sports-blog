@@ -4,7 +4,7 @@ date: 2018-05-26T00:00:00Z
 title: Most Improved Among French Open Seeds
 categories: ['clay','french open',]
 tags:  ['clay','french open',]
-url: /2018/05/26/French-Open-Confidence/
+url: /2018/05/26/french-open-confidence/
 thumbnail: "/img/shapo_madrid.png"
 ---
 

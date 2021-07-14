@@ -4,7 +4,7 @@ date: 2017-09-02T00:00:00Z
 title: The 2016 US Open Men Would Smash 2017
 categories: ['strength', 'Elo', 'US Open',]
 tags: ['strength', 'Elo', 'US Open',]
-url: /2017/09/02/Weak-US-Open/
+url: /2017/09/02/weak-us-open/
 thumbnail: "/img/cilic_usopen.png"
 ---
 

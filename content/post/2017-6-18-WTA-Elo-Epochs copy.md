@@ -4,7 +4,7 @@ date: 2017-06-18T00:00:00Z
 title: The 2017 WTA Season Looking A Lot Like Early 2003
 categories: ['WTA', 'epochs',]
 tags: ['WTA', 'epochs',]
-url: /2017/06/18/WTA-Elo-Epochs/
+url: /2017/06/18/wta-elo-epochs/
 thumbnail: "img/konta_thumbnail.png"
 ---
 

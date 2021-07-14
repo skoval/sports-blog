@@ -2,7 +2,7 @@
 comments: true
 date: 2016-05-08T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 10
-url: /2016/05/08/Klaassen-Magnus-Hypothesis-10/
+url: /2016/05/08/klaassen-magnus-hypothesis-10/
 ---
 
 After two close semifinals, World No. 2 Andy Murray is set to defend his Madrid Masters title against top seed Novak Djokovic. The fact that the two go into the match at the top of the ATP rankings leaderboard suggests that we are in store for a quality match, with Djokovic being the perennial favorite. 

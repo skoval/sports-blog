@@ -4,7 +4,7 @@ date: 2019-03-15T00:00:00Z
 title: Head-to-Head Effects
 categories: ['matchups','head-to-head',]
 tags:   ['matchups','head-to-head',]
-url: /2019/03/15/Head-to-Head-Effects/
+url: /2019/03/15/head-to-head-effects/
 thumbnail: "/img/monfils_kohli.png"
 ---
 

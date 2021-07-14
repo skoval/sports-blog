@@ -4,7 +4,7 @@ date: 2018-05-18T00:00:00Z
 title: Alexander Zverev's Evolution on Clay
 categories: ['clay','zverev',]
 tags:  ['clay','zverev',]
-url: /2018/05/18/Zverev-Evolution-Clay/
+url: /2018/05/18/zverev-evolution-clay/
 thumbnail: "/img/zverev_rome.png"
 ---
 

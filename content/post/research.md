@@ -10,9 +10,11 @@ Selected research. Full list can be found on [Google Scholar](https://scholar.go
 
 - Kovalchik, S. A., & Ingram, M. (2018). [Estimating the duration of professional tennis matches for varying formats.](https://www.degruyter.com/view/j/jqas.2018.14.issue-1/jqas-2017-0077/jqas-2017-0077.xml) Journal of Quantitative Analysis in Sports, 14(1), 13-23.
 
-- Kovalchik, S., & Reid, M. (2018). [A shot taxonomy in the era of tracking data in professional tennis.](https://shapeamerica.tandfonline.com/doi/abs/10.1080/02640414.2018.1438094) Journal of sports sciences, 36(18), 2096-2104.
+- Kovalchik, S., & Reid, M. (2018). [A shot taxonomy in the era of tracking data in professional tennis.](https://shapeamerica.tandfonline.com/doi/abs/10.1080/02640414.2018.1438094) Journal of Sports Sciences, 36(18), 2096-2104.
 
 - Albert, J., & Kovalchik, S. (2017). [The Do’s and Don’ts of Sports Metrics: The Tennis ATP Leaderboard.](http://amstat.tandfonline.com/doi/abs/10.1080/09332480.2017.1302717) CHANCE, 30(1), 26-34.
+
+-  Kovalchik, S., & Ingram, M. (2016). <a href='../data/kovalchik_hotheads.pdf'>Hot heads, cool heads, and tacticians: Measuring the mental game in tennis (ID: 1464)</a>. In MIT Sloan Sports Analytics Conference.
 
 - Kovalchik, S. A. (2016). [Searching for the GOAT of tennis win prediction.](https://www.degruyter.com/view/j/jqas.ahead-of-print/jqas-2015-0059/jqas-2015-0059.xml) Journal of Quantitative Analysis in Sports, 12(3), 127-138.
 

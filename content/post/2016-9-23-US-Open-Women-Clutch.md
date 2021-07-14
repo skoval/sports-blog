@@ -2,7 +2,7 @@
 comments: true
 date: 2016-09-23T00:00:00Z
 title: Clutch Review of the WTA at the 2016 U.S. Open
-url: /2016/09/23/US-Open-Women-Clutch/
+url: /2016/09/23/us-open-women-clutch/
 ---
 
 The 2016 U.S. Open might now be a faint memory of the news cycle but there are still plenty of stories about player performance that were never told. This week, I have been digging into the point-by-point data from this year's matches at Flushing to find out how players handled the biggest moments of the tournament. 

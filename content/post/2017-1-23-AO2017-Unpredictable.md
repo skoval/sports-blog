@@ -2,7 +2,7 @@
 comments: true
 date: 2017-01-23T00:00:00Z
 title: AO 2017 Most Unpredictable?
-url: /2017/01/23/AO2017-Unpredictable/
+url: /2017/01/23/ao2017-unpredictable/
 ---
 
 When defending champion Novak Djokovic went out in the second round to qualifier Denis Istomin, we all had to be thinking that it was the most surprising match result we were likely to see at the 2017 Australian Open. Then Day 7 happened. 

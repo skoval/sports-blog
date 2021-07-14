@@ -2,7 +2,7 @@
 comments: true
 date: 2017-01-30T00:00:00Z
 title: How the 2017 Australian Open Men's Final Was Won
-url: /2017/01/30/AO2017-Replaying-Mens-Final/
+url: /2017/01/30/ao2017-replaying-mens-final/
 ---
 
 If you are like me, you are spending the day after the final match of the 2017 Australian Open looking for ways to relive the startling 35th meeting of Rafael Nadal and Roger Federer. At the start of the tournament, the chances that Federer would win the title were just 3%; Nadal was an even greater underdog with just 1.5%. Seeing either of them in the final match at Rod Laver Arena wasn't suppose to happen. Yet here we are the day after both men defied the odds and produced what is likely to be one of the most storied moments in tennis history. 

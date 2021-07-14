@@ -4,7 +4,7 @@ date: 2017-10-20T00:00:00Z
 title: Is Fatigue Cumulative?
 categories: ['duration','serve','fatigue',]
 tags: ['duration','serve','fatigue',]
-url: /2017/10/20/Cumulative-Fatigue-Effects/
+url: /2017/10/20/cumulative-fatigue-effects/
 thumbnail: "/img/keys_usopen.png"
 ---
 

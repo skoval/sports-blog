@@ -2,7 +2,7 @@
 comments: true
 date: 2017-02-10T00:00:00Z
 title: Elo Prediction Accuracy and Court Pace
-url: /2017/02/10/Elo-Court-Pace/
+url: /2017/02/10/elo-court-pace/
 ---
 
 With only two of the top 8 seeds reaching the quarterfinals at the first Grand Slam of the year, the 2017 Australian Open was a trainwreck for most prediction models. Even the Elo forecasting system, one of the most accurate open prediction approaches in tennis, couldn't have anticipated the unusual conditions of this year's Major down under.

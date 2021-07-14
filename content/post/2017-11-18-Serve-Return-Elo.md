@@ -4,7 +4,7 @@ date: 2017-11-18T00:00:00Z
 title: Serve and Return Elo Ratings 
 categories: ['elo', 'ratings',]
 tags: ['elo', 'ratings',]
-url: /2017/11/18/Elo-Serve-Return/
+url: /2017/11/18/elo-serve-return/
 thumbnail: "/img/atp_tour_finals.png"
 ---
 

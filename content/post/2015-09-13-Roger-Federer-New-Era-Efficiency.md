@@ -2,7 +2,7 @@
 comments: false
 date: 2015-09-13T00:00:00Z
 title: A New Era of Efficiency for Roger Federer
-url: /2015/09/13/Roger-Federer-New-Era-Efficiency/
+url: /2015/09/13/roger-federer-new-era-efficiency/
 ---
 
 Today, Roger Federer will make his first appearance at a US Open final since 2009, where he lost to Juan Martin Del Potro. Since that match, Federer has reached the finals of 5 other Grand Slams but has not won a title since his 2012 victory at Wimbledon over Andy Murray. Following that title win, he has advanced to a final at two Slams, the 2014 and 2015 Wimbledon Championships; in each case, losing to Novak Djokovic.

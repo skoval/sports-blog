@@ -4,7 +4,7 @@ date: 2018-01-22T00:00:00Z
 title: The Odds Are Against Quick Comebacks
 categories: ['comeback','injury',]
 tags:  ['comeback','injury',]
-url: /2018/01/22/Quick-Comebacks/
+url: /2018/01/22/quick-comebacks/
 thumbnail: "/img/djokovic_aus_open2018.png"
 ---
 

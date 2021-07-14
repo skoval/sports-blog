@@ -4,7 +4,7 @@ date: 2019-09-13T00:00:00Z
 title: How Medvedev and Berrettini Dealt with Pressure at the US Open 
 categories: ['pressure',]
 tags:   ['pressure',]
-url: /2019/09/13/US-Open-Pressure/
+url: /2019/09/13/us-open-pressure/
 thumbnail: "/img/medvedev-usopen-final.png"
 ---
 

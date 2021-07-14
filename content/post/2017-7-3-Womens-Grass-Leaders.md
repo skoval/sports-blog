@@ -4,7 +4,7 @@ date: 2017-07-03T00:00:00Z
 title: Women's Serve and Return Grass Leaders
 categories: ['WTA', 'Wimbledon', 'leaders',]
 tags: ['WTA', 'Wimbledon', 'leaders',]
-url: /2017/07/03/Womens-Grass-Leaders/
+url: /2017/07/03/womens-grass-leaders/
 thumbnail: "img/kvitova2.png"
 ---
 

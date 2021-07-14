@@ -4,7 +4,7 @@ date: 2018-06-29T00:00:00Z
 title: Federer has outperformed everyone on grass - including himself
 categories: ['Federer','Wimbledon',]
 tags:  ['Federer','Wimbledon',]
-url: /2018/06/29/Federer-Wimbledon/
+url: /2018/06/29/federer-wimbledon/
 thumbnail: "/img/fed_wimbledon_2018.png"
 ---
 

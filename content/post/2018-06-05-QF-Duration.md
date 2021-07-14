@@ -4,7 +4,7 @@ date: 2018-06-05T00:00:00Z
 title: Will Freshness be a Factor at the French Open?
 categories: ['french open','duration',]
 tags: ['french open','duration',]
-url: /2018/06/05/Freshness-Factor/
+url: /2018/06/05/freshness-factor/
 thumbnail: "/img/zverev_french_duration.png"
 ---
 

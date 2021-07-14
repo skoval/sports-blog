@@ -2,7 +2,7 @@
 comments: true
 date: 2016-12-03T00:00:00Z
 title: AO Leaderboard - Rally Lengths
-url: /2016/12/03/AOLeaderboard-Rally-Lengths/
+url: /2016/12/03/aoleaderboard-rally-lengths/
 ---
 
 Rally lengths are a useful measure for differentiating styles of play. Players who tend to keep points to a few shots would be expected to be dominant on serve and more willing to go to net. Players who tend to grind out extended rallies would tend to be the baseliners whose best weapons are their groundstrokes and endurance. 

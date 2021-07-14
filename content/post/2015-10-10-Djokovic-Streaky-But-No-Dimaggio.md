@@ -2,7 +2,7 @@
 comments: true
 date: 2015-10-10T00:00:00Z
 title: Djokovic Streaky But No DiMaggio
-url: /2015/10/10/Djokovic-Streaky-But-No-Dimaggio/
+url: /2015/10/10/djokovic-streaky-but-no-dimaggio/
 ---
 
 If you have been following the ATP Tour's China Open this week, you have probably seen references to Novak Djokovic's [winning streak](http://www.foxsports.com/tennis/story/rafael-nadal-ana-ivanovic-sara-errani-china-open-tennis-quarterfinals-100915). He will enter the final against long-time rival Rafael Nadal with a 28-0 record over 6 total appearances at the Beijing 500. 

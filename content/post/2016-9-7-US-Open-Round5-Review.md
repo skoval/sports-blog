@@ -2,7 +2,7 @@
 comments: true
 date: 2016-09-07T00:00:00Z
 title: Visualizations of Day 9 at the 2016 U.S. Open
-url: /2016/09/07/US-Open-Round5-Review/
+url: /2016/09/07/us-open-round5-review/
 ---
 
 Day 9 brought us the first half of the quarterfinals of the 2016 U.S. Open. It was a day when the favorites were in top-form, closing out all of their matches in swift fashion. Here we review how both the two women's and two men's quarterfinal matches of the day were won.

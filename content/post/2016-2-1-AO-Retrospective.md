@@ -2,7 +2,7 @@
 comments: true
 date: 2016-02-01T00:00:00Z
 title: AO 2016 Retrospective
-url: /2016/02/01/AO-Retrospective/
+url: /2016/02/01/ao-retrospective/
 ---
 
 This weekend we closed the chapter on the first Grand Slam of 2016. As all our  news feeds overflowed with the photos of the tournament champions Novak Djokovic and first-time major winner, Angelique Kerber, in the hours that followed their victories, each snapshot was a reminder of how much can happen in just two weeks time. 

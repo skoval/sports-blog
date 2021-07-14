@@ -2,7 +2,7 @@
 comments: true
 date: 2016-05-01T00:00:00Z
 title: Klaassen & Magnus's 22 Myths of Tennis - Myth 9
-url: /2016/05/01/Klaassen-Magnus-Hypothesis-9/
+url: /2016/05/01/klaassen-magnus-hypothesis-9/
 ---
 
 After Alexander Zverev took the first set in 6-4 against Dominic Thiem at Saturday's [BMW Open semifinal](http://www.atpworldtour.com/en/news/thiem-kohlschreiber-munich-2016-saturday), it looked like he was on track to stop the Austrian's 29th ATP singles win this season. But the tables quickly turned and after taking the second sets in 6-2 and 6-3, Thiem ultimately prevailed, securing a spot in the final against Philipp Kohlschreiber.

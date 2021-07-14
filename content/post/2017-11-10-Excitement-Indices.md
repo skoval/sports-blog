@@ -4,7 +4,7 @@ date: 2017-11-10T00:00:00Z
 title: The Many Sides of Excitement 
 categories: ['excitement', 'importance',]
 tags: ['excitement', 'importance',]
-url: /2017/11/10/Excitement-Indices/
+url: /2017/11/10/excitement-indices/
 thumbnail: "/img/nadal_win.png"
 ---
 

@@ -2,7 +2,7 @@
 comments: true
 date: 2015-09-03T00:00:00Z
 title: WTA Early Upsets at 2015 US Open - Not Too Surprising
-url: /2015/09/03/WTA-US-Open-2015-Upsets/
+url: /2015/09/03/wta-us-open-2015-upsets/
 ---
 
 Day 4 of the 2015 US Open and the tournament has already brought a lot of surprises. While we all might have expected Nick Kyrgios to exit with flare in the first round, few of us would have anticipated that the first round would say farewell to so many of the seeds. The ladies' draw feels especially bare after 11 of 32 seeds (34%) did not advance to the second round--Stephens (29),  Pavlyuchenkova (31), Pliskova (8),  Kuznetsova (30), Suarez Navarro (10), Jankovic (21), Ivanovic (7), Safarova (6), Begu (28), Bacsinszky (14), Cornet (27). But is this level of upsets _really_ that surprising?

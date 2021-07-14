@@ -2,7 +2,7 @@
 comments: true
 date: 2016-12-24T00:00:00Z
 title: AO Leaderboard - Men's Distances
-url: /2016/12/24/AOLeaderboard-Mens-Distances/
+url: /2016/12/24/aoleaderboard-mens-distances/
 ---
 
 During a tennis match broadcast you will sometimes see a stat on the distances run by players. But we rarely get a look at the distances run over all matches in a tournament or a season, numbers that could tell us what kinds of distances are typical at the elite level and what are extreme.

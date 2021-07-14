@@ -4,7 +4,7 @@ date: 2019-11-15T00:00:00Z
 title: Who Were the Top Pressure Performers at the 2019 Grand Slams?
 categories: ['pressure',]
 tags:   ['pressure',]
-url: /2019/11/15/Pressure-Win-Stats/
+url: /2019/11/15/pressure-win-stats/
 thumbnail: "/img/atp_tour_2019.png"
 ---
 

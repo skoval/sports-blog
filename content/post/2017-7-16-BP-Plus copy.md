@@ -4,7 +4,7 @@ date: 2017-07-16T00:00:00Z
 title: Measuring Match Dominance 
 categories: ['Grand Slams', 'dominance',]
 tags: ['Grand Slams', 'dominance',]
-url: /2017/07/16/Match-Dominance/
+url: /2017/07/16/match-dominance/
 thumbnail: "img/federer_wimbledon.png"
 ---
 
